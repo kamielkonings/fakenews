@@ -2,6 +2,13 @@
 
 https://fakenewsgetr.herokuapp.com/
 
+# Tech
+- Python
+- Flask
+- Pattern (Python Library for natural language parsing)
+- Heroku
+- GitHub
+
 # Installation
 
     pip install virtualenv
