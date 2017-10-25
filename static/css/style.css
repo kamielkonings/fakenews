@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+}
+
+body {
+  margin: 0;
+  font: 14px sans-serif;
+}
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+article {
+  width: 45%;
+}
