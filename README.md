@@ -9,6 +9,13 @@ https://fakenewsgetr.herokuapp.com/
     source venv/bin/activate
     pip install -r requirements.txt
 
+# Fetching fake news
+
+    cd YOURPROJECTDIRECTORY
+    source venv/bin/activate
+    python fakenews.py fetch
+
 # Push to Heroku
 
     git push heroku master
+
