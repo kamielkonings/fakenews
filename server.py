@@ -1,13 +1,14 @@
 import os
 from flask import Flask, render_template
 
-from fakenews import do_generate
+from fakenews import do_generate, do_fetch
 
 app = Flask(__name__)
 
 
 @app.route("/")
 def homepage():
+    do_fetch()
     items = do_generate()
 
     return render_template('homepage.html', items=items)

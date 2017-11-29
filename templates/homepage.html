@@ -6,18 +6,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="/static/css/style.css">
-  <title>De Gisteren</title>
+  <title>TrendFeed</title>
 </head>
 
 <body>
-
+  
+  <head>
+    
+  </head>
+  
+  <menu>
+  	<a href="">Trends</a>
+  	<a href="">About</a>
+  	<a href="">Follow</a>
+  </menu>
+  
   {% for item in items %}
   <article>
     <h2>{{ item.title }}</h2>
     <img src="{{ item.image }}" alt="">
   </article>
   {% endfor %}
-
+  
+  
 </body>
 
 </html>

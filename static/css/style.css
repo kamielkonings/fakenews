@@ -13,8 +13,12 @@ body {
 body {
   display: flex;
   flex-wrap: wrap;
+	
+  background-color: black;
+	color: white;
 }
 
 article {
   width: 45%;
+  color: yellow;
 }
