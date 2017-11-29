@@ -1,3 +1,5 @@
 *.pyc
 .DS_Store
 venv
+demorgen.xml
+trends.json
