@@ -67,6 +67,11 @@ def do_generate():
         fake_items.append({'title': fake_title, 'image': image})
     return fake_items
 
+def get_trends():
+    all_trends = json.load(open('trends.json'))
+    local_trends = all_trends['41']  # Belgie
+
+    return local_trends
 
 def usage():
     print "python fakenews.py [command]"
