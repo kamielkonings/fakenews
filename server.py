@@ -1,6 +1,6 @@
 import os
 from flask import Flask, render_template
-
+from random import choice
 from fakenews import do_generate, do_fetch, get_trends
 
 app = Flask(__name__)
@@ -8,8 +8,9 @@ app = Flask(__name__)
 
 @app.route("/")
 def homepage():
-    do_fetch()
-    items = do_generate()
+    publication = choice(['demorgen', 'hln'])
+    do_fetch(publication)
+    items = do_generate(publication)
     trends = get_trends()
 
     return render_template('homepage.html', items=items, trends=trends)

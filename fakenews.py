@@ -37,18 +37,20 @@ def fakenewsify(title, trends):
     return new_sentence
 
 
-def do_fetch():
-    urllib.urlretrieve('https://www.demorgen.be/rss.xml', 'demorgen.xml')
-    # urllib.urlretrieve('https://www.hln.be/rss.xml', 'hln.xml')
+def do_fetch(publication='demorgen'):
+    if publication == 'demorgen':
+        urllib.urlretrieve('https://www.demorgen.be/rss.xml', 'demorgen.xml')
+    elif publication == 'hln':
+        urllib.urlretrieve('https://www.hln.be/rss.xml', 'hln.xml')
     urllib.urlretrieve('http://hawttrends.appspot.com/api/terms/',
                        'trends.json')
 
 
-def do_generate():
+def do_generate(publication='demorgen'):
     all_trends = json.load(open('trends.json'))
     local_trends = all_trends['41']  # Belgie
 
-    tree = ET.parse('demorgen.xml')
+    tree = ET.parse(publication + '.xml')
     root = tree.getroot()
 
     fake_items = []
@@ -62,7 +64,7 @@ def do_generate():
 
         image = item.find('content:encoded', ns)
         if image is None:
-            image = item.find('media:thumbnail', ns)
+            image = item.find('media:content', ns)
             if image is None:
                 continue
         image = image.text or image.get('url')
