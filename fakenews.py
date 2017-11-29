@@ -7,7 +7,8 @@ from pattern.nl import parse, split
 
 ns = {
     'dc': 'http://purl.org/dc/elements/1.1/',
-    'content': 'http://purl.org/rss/1.0/modules/content/'
+    'content': 'http://purl.org/rss/1.0/modules/content/',
+    'media': 'http://search.yahoo.com/mrss/'
 }
 
 
@@ -61,17 +62,21 @@ def do_generate():
 
         image = item.find('content:encoded', ns)
         if image is None:
-            continue
-        image = image.text
+            image = item.find('media:thumbnail', ns)
+            if image is None:
+                continue
+        image = image.text or image.get('url')
 
         fake_items.append({'title': fake_title, 'image': image})
     return fake_items
+
 
 def get_trends():
     all_trends = json.load(open('trends.json'))
     local_trends = all_trends['41']  # Belgie
 
     return local_trends
+
 
 def usage():
     print "python fakenews.py [command]"
