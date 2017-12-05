@@ -6,6 +6,11 @@ img {
 }
 
 body {
+  margin: 0;
+  font: 14px sans-serif;
+}
+
+body {
   display: flex;
   flex-wrap: wrap;
 }
@@ -16,6 +21,7 @@ article {
 }
 
 trend {
-  width: 45%;
-  color: black;
+	width:45%;
+	color: black;
 }
+

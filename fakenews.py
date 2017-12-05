@@ -77,7 +77,11 @@ def get_trends():
     all_trends = json.load(open('trends.json'))
     local_trends = all_trends['41']  # Belgie
 
+<<<<<<< HEAD
     return local_trends []
+=======
+    return local_trends
+>>>>>>> parent of fbd6226... update html
 
 
 def usage():

@@ -12,6 +12,7 @@
 <body>
 
   <head>
+<<<<<<< HEAD
     <h1>TrendFeed-logo</h1>
 
     <h1>hand-left</h1>
@@ -77,6 +78,35 @@
     <p>Created by Kamiel Konings - Cis Druyts. Engine by code studio.</p>
   </footer>
 
+=======
+
+  </head>
+
+  <menu>
+    <a href="">Trends</a>
+    <a href="">About</a>
+    <a href="">Follow</a>
+  </menu>
+
+  <div class="poltArticle">
+    {% for item in items %}
+    <article>
+      <h2>{{ item.title }}</h2>
+      <img src="{{ item.image }}" alt="">
+    </article>
+    {% endfor %}
+  </div>
+
+  <div class="plotTrend">
+    {% for trend in trends %}
+    <trend>
+      <h2>
+        {{ trend }}
+      </h2>
+    </trend>
+    {% endfor %}
+  </div>
+>>>>>>> parent of fbd6226... update html
 </body>
 
 </html>

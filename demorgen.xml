@@ -6,8 +6,13 @@
     <description>Nieuws</description>
     <language>nl-BE</language>
     <copyright>de Persgroep Publishing NV</copyright>
+<<<<<<< HEAD
     <pubDate>Tue, 05 Dec 2017 14:12:46 GMT</pubDate>
     <lastBuildDate>Tue, 05 Dec 2017 14:12:46 GMT</lastBuildDate>
+=======
+    <pubDate>Wed, 29 Nov 2017 12:07:38 GMT</pubDate>
+    <lastBuildDate>Wed, 29 Nov 2017 12:07:38 GMT</lastBuildDate>
+>>>>>>> parent of fbd6226... update html
     <image>
       <title>De Morgen</title>
       <url>//www.demorgen.be/static/img/Logo_DeMorgen_RSS.png?r=3.56.1</url>
@@ -534,6 +539,7 @@
       <g-custom:is-plus type="boolean">false</g-custom:is-plus>
     </item>
     <item>
+<<<<<<< HEAD
       <title>Israël voert opnieuw luchtaanvallen uit in Syrië</title>
       <link>https://www.demorgen.be/buitenland/israel-voert-opnieuw-luchtaanvallen-uit-in-syrie-b8c2f362/</link>
       <description>Volgens het Syrische Observatorium voor de Mensenrechten hebben Israëlische vliegtuigen maandag luchtaanvallen uitgevoerd nabij Damascus. Twee dagen dagen geleden werden ook al bombardementen gemeld door Israël in de buurt van de Syrische hoofdstad.</description>
@@ -585,6 +591,53 @@
       <description>Een doorbraak in de brexit is op het laatste nippertje afgesprongen. Aanleiding is een dispuut over de grens tussen Noord-Ierland en Ierland. Een kluwen dat Brits premier Theresa May voorlopig niet ontrafeld krijgt.</description>
       <pubDate>Mon, 04 Dec 2017 23:00:00 GMT</pubDate>
       <guid>https://www.demorgen.be/plus/may-verstrikt-in-iers-kluwen-b-1512434401918/</guid>
+=======
+      <title>Te blank voor Afrika, te zwart voor Europa</title>
+      <link>https://www.demorgen.be/plus/te-blank-voor-afrika-te-zwart-voor-europa-b-1511916004809/</link>
+      <description>In de koloniale geschiedenis van Congo, Rwanda en Burundi worden de driehonderd kinderen van gemengde afkomst die net voor de onafhankelijkheid op transport werden gezet naar België nogal eens vergeten. Historica Sarah Heynssens vertelt hun niet zelden tragische verhaal in De kinderen van Save.</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/te-blank-voor-afrika-te-zwart-voor-europa-b-1511916004809/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Zal Meghan Markle de monarchie redden?</title>
+      <link>https://www.demorgen.be/plus/zal-meghan-markle-de-monarchie-redden-b-1511916004576/</link>
+      <description>Irenosen Okojie, geboren in Nigeria en op haar achtste naar Engeland verhuisd, schrijft romans en kortverhalen.</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/zal-meghan-markle-de-monarchie-redden-b-1511916004576/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Lust en telekinese</title>
+      <link>https://www.demorgen.be/plus/lust-en-telekinese-b-1511916003020/</link>
+      <description />
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/lust-en-telekinese-b-1511916003020/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Wetenschappers kweken dino-veren bij kippen</title>
+      <link>https://www.demorgen.be/plus/wetenschappers-kweken-dino-veren-bij-kippen-b-1511916004910/</link>
+      <description />
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/wetenschappers-kweken-dino-veren-bij-kippen-b-1511916004910/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>ICT-problemen ziekenhuizen opgelost</title>
+      <link>https://www.demorgen.be/plus/ict-problemen-ziekenhuizen-opgelost-b-1511916004886/</link>
+      <description />
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/ict-problemen-ziekenhuizen-opgelost-b-1511916004886/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Ciman stopt als international na WK 2018</title>
+      <link>https://www.demorgen.be/plus/ciman-stopt-als-international-na-wk-2018-b-1511916004306/</link>
+      <description />
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/ciman-stopt-als-international-na-wk-2018-b-1511916004306/</guid>
+>>>>>>> parent of fbd6226... update html
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -638,6 +691,7 @@ Opiniërend hoofdredacteur
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
+<<<<<<< HEAD
       <title>dagvers</title>
       <link>https://www.demorgen.be/plus/dagvers-b-1512434402758/</link>
       <description>Modern rederijker Stijn De Paepe becommentarieert dagelijks het nieuws in versvorm.</description>
@@ -683,6 +737,55 @@ Opiniërend hoofdredacteur
       <description>Eeuwenlang stond hondenvlees op het Koreaanse menu. Met het oog op de komende Winterspelen die het organiseert, wil Zuid-Korea af van de eetgewoonte.</description>
       <pubDate>Mon, 04 Dec 2017 23:00:00 GMT</pubDate>
       <guid>https://www.demorgen.be/plus/zuid-korea-wil-geen-honden-meer-op-het-menu-b-1512434403262/</guid>
+=======
+      <title>'Die groove! Die percussie! Die samenzang!'</title>
+      <link>https://www.demorgen.be/plus/-die-groove-die-percussie-die-samenzang-b-1511916008549/</link>
+      <description>Van de allereerste aflevering van Netflix-topper Stranger Things tot een Facebook-groep die het nummer nu koste wat het kost naar de top van de Tijdloze op StuBru wil piloteren. 'Africa' van Toto beleeft 35 jaar na de release zijn renaissance. Muzikanten en dj's ontrafelen het geheim.</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/-die-groove-die-percussie-die-samenzang-b-1511916008549/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>standpunt</title>
+      <link>https://www.demorgen.be/plus/standpunt-b-1511916008396/</link>
+      <description>BART EECKHOUT 
+Opiniërend hoofdredacteur
+@barteeckhout</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/standpunt-b-1511916008396/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Imam Grote Moskee mag in België blijven</title>
+      <link>https://www.demorgen.be/plus/imam-grote-moskee-mag-in-belgie-blijven-b-1511916008356/</link>
+      <description>De Raad voor Vreemdelingenbetwistingen vernietigt het uitwijzingsbevel tegen Abdelhadi Sewif, de imam van de Grote Moskee in Brussel. Hij moet het land niet verlaten.</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/imam-grote-moskee-mag-in-belgie-blijven-b-1511916008356/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Syrië stemt in met bestand Oost-Ghouta</title>
+      <link>https://www.demorgen.be/plus/syrie-stemt-in-met-bestand-oost-ghouta-b-1511916008483/</link>
+      <description />
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/syrie-stemt-in-met-bestand-oost-ghouta-b-1511916008483/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Brussel verbiedt betoging 'tegen repressie'</title>
+      <link>https://www.demorgen.be/plus/brussel-verbiedt-betoging-tegen-repressie-b-1511916009310/</link>
+      <description />
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/brussel-verbiedt-betoging-tegen-repressie-b-1511916009310/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>'Work hard, be kind'</title>
+      <link>https://www.demorgen.be/plus/-work-hard-be-kind-b-1511916009416/</link>
+      <description />
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/-work-hard-be-kind-b-1511916009416/</guid>
+>>>>>>> parent of fbd6226... update html
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -718,6 +821,7 @@ Opiniërend hoofdredacteur
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
+<<<<<<< HEAD
       <title>'Geen enkele prof traint zo veel'</title>
       <link>https://www.demorgen.be/plus/-geen-enkele-prof-traint-zo-veel-b-1512434402051/</link>
       <description>Het is de transfer van de week: Davide Rebellin (46) rijdt in 2018 voor de Belgische continentale Natura4Ever-ploeg. Hij is drievoudig winnaar van de Waalse Pijl, winnaar van Luik-Bastenaken-Luik, ex-dopingzondaar, maar vooral een renner die van geen ophouden weet.</description>
@@ -728,17 +832,37 @@ Opiniërend hoofdredacteur
     <item>
       <title>Venezuela lanceert virtuele munt 'petro'</title>
       <link>https://www.demorgen.be/plus/venezuela-lanceert-virtuele-munt-petro-b-1512434400937/</link>
+=======
+      <title>De barsten in het trouwservies</title>
+      <link>https://www.demorgen.be/plus/de-barsten-in-het-trouwservies-b-1511916001452/</link>
+>>>>>>> parent of fbd6226... update html
       <description />
       <pubDate>Mon, 04 Dec 2017 23:00:00 GMT</pubDate>
       <guid>https://www.demorgen.be/plus/venezuela-lanceert-virtuele-munt-petro-b-1512434400937/</guid>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
+<<<<<<< HEAD
       <title>Elektrisch rijden is duurder dan met benzine</title>
       <link>https://www.demorgen.be/plus/elektrisch-rijden-is-duurder-dan-met-benzine-b-1512434402131/</link>
       <description />
       <pubDate>Mon, 04 Dec 2017 23:00:00 GMT</pubDate>
       <guid>https://www.demorgen.be/plus/elektrisch-rijden-is-duurder-dan-met-benzine-b-1512434402131/</guid>
+=======
+      <title>De moord op Commendatore</title>
+      <link>https://www.demorgen.be/plus/de-moord-op-commendatore-b-1511916003858/</link>
+      <description>Twee jaar na zijn verhalenbundel Mannen zonder vrouw laat Haruki Murakami (1949) weer een roman op de wereld los. In De moord op Commendatore wordt een portretschilder geplaagd door liefdesperikelen en een painter's block. In een afgelegen atelier hoopt hij zijn inspiratie terug te vinden. Hiernaast het begin van hoofdstuk 1.</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/de-moord-op-commendatore-b-1511916003858/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Vlieg speelt taxi voor salmonella en E. coli</title>
+      <link>https://www.demorgen.be/plus/vlieg-speelt-taxi-voor-salmonella-en-e-coli-b-1511916003062/</link>
+      <description>Vliegende viezeriken zijn het. Huis- en bromvliegen brengen zoveel bacteriën over op voedsel dat mensen er ernstig ziek van kunnen worden, blijkt uit een nieuwe wetenschappelijke studie.</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/vlieg-speelt-taxi-voor-salmonella-en-e-coli-b-1511916003062/</guid>
+>>>>>>> parent of fbd6226... update html
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -750,8 +874,21 @@ Opiniërend hoofdredacteur
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
+<<<<<<< HEAD
       <title>Mario Centeno (51)</title>
       <link>https://www.demorgen.be/plus/mario-centeno-51-b-1512434400961/</link>
+=======
+      <title>Russische uitsluiting komt weer stap dichterbij</title>
+      <link>https://www.demorgen.be/plus/russische-uitsluiting-komt-weer-stap-dichterbij-b-1511916003972/</link>
+      <description />
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/russische-uitsluiting-komt-weer-stap-dichterbij-b-1511916003972/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Mugabe krijgt eigen feestdag in Zimbabwe</title>
+      <link>https://www.demorgen.be/plus/mugabe-krijgt-eigen-feestdag-in-zimbabwe-b-1511916002755/</link>
+>>>>>>> parent of fbd6226... update html
       <description />
       <pubDate>Mon, 04 Dec 2017 23:00:00 GMT</pubDate>
       <guid>https://www.demorgen.be/plus/mario-centeno-51-b-1512434400961/</guid>
@@ -782,6 +919,7 @@ Opiniërend hoofdredacteur
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
+<<<<<<< HEAD
       <title>Gentse top verbaasd over snelle inhaalrace</title>
       <link>https://www.demorgen.be/plus/gentse-top-verbaasd-over-snelle-inhaalrace-b-1512434402671/</link>
       <description />
@@ -792,6 +930,10 @@ Opiniërend hoofdredacteur
     <item>
       <title>Tien mensen vast voor dood Maltese journalist</title>
       <link>https://www.demorgen.be/plus/tien-mensen-vast-voor-dood-maltese-journalist-b-1512434402514/</link>
+=======
+      <title>Pindavormige robot moet je beter doen slapen</title>
+      <link>https://www.demorgen.be/plus/pindavormige-robot-moet-je-beter-doen-slapen-b-1511916005075/</link>
+>>>>>>> parent of fbd6226... update html
       <description />
       <pubDate>Mon, 04 Dec 2017 23:00:00 GMT</pubDate>
       <guid>https://www.demorgen.be/plus/tien-mensen-vast-voor-dood-maltese-journalist-b-1512434402514/</guid>
@@ -806,11 +948,27 @@ Opiniërend hoofdredacteur
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
+<<<<<<< HEAD
       <title>De bril die levens kan redden</title>
       <link>https://www.demorgen.be/plus/de-bril-die-levens-kan-redden-b-1512434403051/</link>
       <description>Een derde van de spoedinterventies in het ziekenhuis van Herstal verloopt een pak vlotter sinds ambulanceverpleegkundigen er een Google Glass dragen. Dankzij de slimme bril kan een dokter vanop afstand meekijken, raad geven, zich beter voorbereiden en dus meer levens redden.</description>
       <pubDate>Mon, 04 Dec 2017 23:00:00 GMT</pubDate>
       <guid>https://www.demorgen.be/plus/de-bril-die-levens-kan-redden-b-1512434403051/</guid>
+=======
+      <title>Facebook spoort zelfmoord-gedachten op</title>
+      <link>https://www.demorgen.be/plus/facebook-spoort-zelfmoord-gedachten-op-b-1511916005662/</link>
+      <description />
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/facebook-spoort-zelfmoord-gedachten-op-b-1511916005662/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>dagvers</title>
+      <link>https://www.demorgen.be/plus/dagvers-b-1511916004738/</link>
+      <description>Modern rederijker Stijn De Paepe becommentarieert dagelijks het nieuws in versvorm.</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/dagvers-b-1511916004738/</guid>
+>>>>>>> parent of fbd6226... update html
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -846,6 +1004,7 @@ Opiniërend hoofdredacteur
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
+<<<<<<< HEAD
       <title>Did American Missile Defense Fail in Saudi Arabia?</title>
       <link>https://www.demorgen.be/buitenland/did-american-missile-defense-fail-in-saudi-arabia-bdf057b4/</link>
       <description>&lt;span&gt;The official story was clear: Saudi forces shot down a ballistic missile fired by Yemen’s Houthi rebel group last month at Saudi Arabia’s capital, Riyadh. It was a victory for the Saudis and for the U.S., which supplied the Patriot missile defense system.&lt;/span&gt;</description>
@@ -861,6 +1020,13 @@ Opiniërend hoofdredacteur
       <description>'In een van de laatste gesprekken voor zijn dood heeft Christiaan Bonkoffsky tegenover zijn broer elementen aangebracht die voldoende zouden moeten zijn om namen te plakken op de Bende van Nijvel.' Dat zegt Geert Lenssens, de advocaat van de broer van de 'reus'.</description>
       <pubDate>Mon, 04 Dec 2017 23:00:00 GMT</pubDate>
       <guid>https://www.demorgen.be/plus/-reus-wou-zelf-waarheid-boven-krijgen-b-1512434400829/</guid>
+=======
+      <title>DICHTER bij Ellen</title>
+      <link>https://www.demorgen.be/plus/dichter-bij-ellen-b-1511916008668/</link>
+      <description>Dichteres Ellen Deckwitz (1982) doet elke week iets met poëzie of proza</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/dichter-bij-ellen-b-1511916008668/</guid>
+>>>>>>> parent of fbd6226... update html
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -880,6 +1046,7 @@ Opiniërend hoofdredacteur
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
+<<<<<<< HEAD
       <title>Ierse fiscus aast op Apple-miljarden</title>
       <link>https://www.demorgen.be/plus/ierse-fiscus-aast-op-apple-miljarden-b-1512434400856/</link>
       <description />
@@ -949,6 +1116,37 @@ Opiniërend hoofdredacteur
       <description>Vorig jaar moest Sinterklaas met duizenden hooverboards over de daken, dit jaar zitten er vooral verrassingsspeelgoedeieren van L.O.L en Hatchimals in zijn zak.</description>
       <pubDate>Mon, 04 Dec 2017 23:00:00 GMT</pubDate>
       <guid>https://www.demorgen.be/plus/drones-zijn-zo-2016-b-1512434402106/</guid>
+=======
+      <title>Jonathan Robijn, Congo Blues</title>
+      <link>https://www.demorgen.be/plus/jonathan-robijn-congo-blues-b-1511916009348/</link>
+      <description>Ook in Jonathan Robijns roman Congo Blues staat een kind van Save centraal, een zwarte jazzpianist die in het Brussel van de jaren 1980 carrière probeert te maken.</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/jonathan-robijn-congo-blues-b-1511916009348/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Helft militairen kiest niet meer voor job in leger</title>
+      <link>https://www.demorgen.be/plus/helft-militairen-kiest-niet-meer-voor-job-in-leger-b-1511916007375/</link>
+      <description />
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/helft-militairen-kiest-niet-meer-voor-job-in-leger-b-1511916007375/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Buitenspel, want homoseksueel</title>
+      <link>https://www.demorgen.be/plus/buitenspel-want-homoseksueel-b-1511916009452/</link>
+      <description>Roman. Wat als je als profvoetballer gevoelens krijgt voor een andere man? In Een natuurtalent schetst Ross Raisin het portret van de introverte jongeman Tom, die in een wereld die bol staat van hersenloos machismo worstelt met zijn ontluikende homoseksualiteit.</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/buitenspel-want-homoseksueel-b-1511916009452/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Experts waarschuwen voor langere celstraffen</title>
+      <link>https://www.demorgen.be/plus/experts-waarschuwen-voor-langere-celstraffen-b-1511916007667/</link>
+      <description>Voortaan kan de strafrechter zelf de minimumduur van de celstraf bepalen. Daarover hebben de meerderheidspartijen een wetsontwerp goedgekeurd. Maar er is veel kritiek. 'Zonder voorbereiding vrijkomen na een volledige straf is veel gevaarlijker dan vervroegd vrijkomen onder voorwaarden.'</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/experts-waarschuwen-voor-langere-celstraffen-b-1511916007667/</guid>
+>>>>>>> parent of fbd6226... update html
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -960,6 +1158,7 @@ Opiniërend hoofdredacteur
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
+<<<<<<< HEAD
       <title>Oud-president Saleh van Jemen gedood</title>
       <link>https://www.demorgen.be/plus/oud-president-saleh-van-jemen-gedood-b-1512434402156/</link>
       <description>Oud-president Ali Abdullah Saleh van Jemen is gedood tijdens gevechten in de hoofdstad Sanaa. Opstandige Houthi's bliezen in het centrum van de stad ook het huis van Saleh op.</description>
@@ -970,6 +1169,10 @@ Opiniërend hoofdredacteur
     <item>
       <title>Partij Islam wordt vierde minderhedenpartij in Gent</title>
       <link>https://www.demorgen.be/plus/partij-islam-wordt-vierde-minderhedenpartij-in-gent-b-1512434402339/</link>
+=======
+      <title>'Apotheken op internet niet veilig genoeg'</title>
+      <link>https://www.demorgen.be/plus/-apotheken-op-internet-niet-veilig-genoeg-b-1511916005894/</link>
+>>>>>>> parent of fbd6226... update html
       <description />
       <pubDate>Mon, 04 Dec 2017 23:00:00 GMT</pubDate>
       <guid>https://www.demorgen.be/plus/partij-islam-wordt-vierde-minderhedenpartij-in-gent-b-1512434402339/</guid>
@@ -1008,11 +1211,67 @@ Opiniërend hoofdredacteur
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
+<<<<<<< HEAD
       <title>Facebook komt met Messenger voor kinderen</title>
       <link>https://www.demorgen.be/plus/facebook-komt-met-messenger-voor-kinderen-b-1512434403660/</link>
       <description>Met de nieuwe toepassing Messenger Kids, voorlopig enkel te krijgen in de VS, richt Facebook zich op kinderen tussen 6 en 13.</description>
       <pubDate>Mon, 04 Dec 2017 23:00:00 GMT</pubDate>
       <guid>https://www.demorgen.be/plus/facebook-komt-met-messenger-voor-kinderen-b-1512434403660/</guid>
+=======
+      <title>KVO A rekent in kwartiertje af met STVV B</title>
+      <link>https://www.demorgen.be/plus/kvo-a-rekent-in-kwartiertje-af-met-stvv-b-b-1511916001347/</link>
+      <description>Met de vingers in de neus. Zo heeft KV Oostende zich, ondanks een slechte tweede helft, gekwalificeerd voor de kwartfinale van de cup. Sint-Truiden kwam met een B-elftal op het veld.</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/kvo-a-rekent-in-kwartiertje-af-met-stvv-b-b-1511916001347/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Sinterklaas die kindervriend</title>
+      <link>https://www.demorgen.be/plus/sinterklaas-die-kindervriend-b-1511916004697/</link>
+      <description>Wat legt de sint dit jaar in de schoen? De betere kinderboeken natuurlijk, voor kleine en grotere maten.</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/sinterklaas-die-kindervriend-b-1511916004697/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>De vastgoedkoning die zich zelden laat zien</title>
+      <link>https://www.demorgen.be/plus/de-vastgoedkoning-die-zich-zelden-laat-zien-b-1511916004351/</link>
+      <description>Een adresboek dikker dan dat van Erik Van der Paal (45) is moeilijk te vinden. De drijvende kracht achter de Antwerpse bouwpromotor Land Invest boogt daarvoor op twee belangrijke troeven: zijn roots in het Vlaams-nationalisme en zijn onstuitbare ondernemersdrang.</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/de-vastgoedkoning-die-zich-zelden-laat-zien-b-1511916004351/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Laatste kans voor 'oubollig' IJsboerke</title>
+      <link>https://www.demorgen.be/plus/laatste-kans-voor-oubollig-ijsboerke-b-1511916004621/</link>
+      <description>IJsboerke mag dan wel een begrip zijn in onze contreien, het bekende schepijs boorde zijn potentieel onvoldoende aan. De Nederlandse chocolademiljonair Fons Walder hoopt nu alsnog het tij te keren.</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/laatste-kans-voor-oubollig-ijsboerke-b-1511916004621/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Ruim jaar na adoptie moet kind terug naar moeder</title>
+      <link>https://www.demorgen.be/plus/ruim-jaar-na-adoptie-moet-kind-terug-naar-moeder-b-1511916004954/</link>
+      <description>Ruim een jaar na de adoptie van baby Manaël moeten adoptievaders Manish en Michaël het kind teruggeven aan de biologische moeder. De vrouw vroeg de baby terug vlak voordat de rechtbank de adoptie moest goedkeuren en kreeg gelijk.</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/ruim-jaar-na-adoptie-moet-kind-terug-naar-moeder-b-1511916004954/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>'Het is een zootje'</title>
+      <link>https://www.demorgen.be/plus/-het-is-een-zootje-b-1511916005754/</link>
+      <description>Winter 2017 is een hindernisparcours voor Wout van Aert. Overwinningen zijn schaars en hij blijft op zoek naar de goede fiets. Toch is de wereldkampioen veldrijden niet zo ontevreden dat hij een transfer naar Lotto overweegt, zegt hij.</description>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/-het-is-een-zootje-b-1511916005754/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Dansen weer toegelaten in New Yorkse bars</title>
+      <link>https://www.demorgen.be/plus/dansen-weer-toegelaten-in-new-yorkse-bars-b-1511916005617/</link>
+      <description />
+      <pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/dansen-weer-toegelaten-in-new-yorkse-bars-b-1511916005617/</guid>
+>>>>>>> parent of fbd6226... update html
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -1490,6 +1749,16 @@ Opiniërend hoofdredacteur
       <pubDate>Mon, 04 Dec 2017 14:30:00 GMT</pubDate>
       <guid>https://www.demorgen.be/reizen/special-waddeneilanden-sense-of-place-unieke-kunstroute-boordevol-natuur-en-cultuur-b9ea3357/</guid>
       <dc:creator>Aangeboden voor NBTC</dc:creator>
+      <g-custom:is-plus type="boolean">false</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Ho99o9 in de Botanique: Trumps ergste nachtmerrie</title>
+      <link>https://www.demorgen.be/muziek/ho99o9-in-de-botanique-trumps-ergste-nachtmerrie-b8f84ebd/</link>
+      <description>&lt;span&gt;Entertainend, geëngageerd, cool, stoer, snoeihard en een streling voor het oog: Ho99o9 was in de Botanique topamusement voor de meerwaardezoeker. Hun grootste verdienste? De aandacht grijpen en uur lang niet loslaten.&lt;/span&gt;</description>
+      <content:encoded>https://images0.persgroep.net/rcs/5T_jcaqHMZRHqX2kX85YIfolH2M/diocontent/105999263/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
+      <pubDate>Tue, 28 Nov 2017 12:10:02 GMT</pubDate>
+      <guid>https://www.demorgen.be/muziek/ho99o9-in-de-botanique-trumps-ergste-nachtmerrie-b8f84ebd/</guid>
+      <dc:creator>Lilith Geeraerts</dc:creator>
       <g-custom:is-plus type="boolean">false</g-custom:is-plus>
     </item>
   </channel>
