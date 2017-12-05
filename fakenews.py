@@ -77,7 +77,7 @@ def get_trends():
     all_trends = json.load(open('trends.json'))
     local_trends = all_trends['41']  # Belgie
 
-    return local_trends []
+    return local_trends [:10]
 
 
 def usage():
