@@ -42,3 +42,7 @@ https://fakenewsgetr.herokuapp.com/
 # Deploy to Heroku
 
     git push
+
+# To quit
+
+    ctrl c

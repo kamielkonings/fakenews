@@ -12,14 +12,27 @@
 <body>
 
   <head>
-
+    <h1>TrendFeed</h1>
   </head>
 
-  <menu>
+  <div class="menu">
     <a href="">Trends</a>
     <a href="">About</a>
     <a href="">Follow</a>
-  </menu>
+  </div>
+
+  <trend>
+    <h2>{{ trend 1}}</h2>
+  </trend>
+  <div class="plotTrend">
+    {% for trend in trends %}
+    <trend>
+      <h2>
+        {{ trend }}
+      </h2>
+    </trend>
+    {% endfor %}
+  </div>
 
   <div class="poltArticle">
     {% for item in items %}
@@ -30,15 +43,10 @@
     {% endfor %}
   </div>
 
-  <div class="plotTrend">
-    {% for trend in trends %}
-    <trend>
-      <h2>
-        {{ trend }}
-      </h2>
-    </trend>
-    {% endfor %}
-  </div>
+  <footer>
+    <p></p>
+  </footer>
+
 </body>
 
 </html>
