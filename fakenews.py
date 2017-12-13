@@ -69,7 +69,7 @@ def do_generate(publication='demorgen'):
                 continue
         image = image.text or image.get('url')
 
-        fake_items.append({'title': fake_title, 'image': image})
+        fake_items.append({'title': fake_title, 'local_trend':local_trend,'image': image})
     return fake_items
 
 
@@ -77,12 +77,8 @@ def get_trends():
     all_trends = json.load(open('trends.json'))
     local_trends = all_trends['41']  # Belgie
 
-<<<<<<< HEAD
-    return local_trends []
-=======
-    return local_trends
->>>>>>> parent of fbd6226... update html
 
+    return local_trends
 
 def usage():
     print "python fakenews.py [command]"
@@ -102,3 +98,4 @@ if __name__ == '__main__':
         items = do_generate()
         for item in items:
             print item['title']
+            print item['local_trend']
