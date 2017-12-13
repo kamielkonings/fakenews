@@ -12,7 +12,7 @@ ns = {
 }
 
 
-def fakenewsify(title, trends,num):
+def fakenewsify(title, trends):
     s = parse(title)
     sentences = s.split()
     first_sentence = sentences[0]
@@ -27,14 +27,14 @@ def fakenewsify(title, trends,num):
     if len(tag_indices) == 0:
         return None
     index_to_replace = choice(tag_indices)
-    random_trend_index = num
-    ###random_trend_index = randint(0, len(trends) - 1)
+    ### random_trend_index = num
+    random_trend_index = randint(0, len(trends) - 1)
     words = [word_data[0] for word_data in first_sentence]
     words[index_to_replace] = trends[random_trend_index]
     del trends[random_trend_index]
 
     new_sentence = ' '.join(words)
-    return new_sentence
+    return [new_sentence,trends[random_trend_index]]
 
 
 def do_fetch(publication='demorgen'):
@@ -58,8 +58,10 @@ def do_generate(publication='demorgen'):
     for item in root.find('channel').findall('item'):
         if len(local_trends) == 0: break
         title = item.find('title').text
-        random_trend = randint(0, len(local_trends) - 1)
-        fake_title = fakenewsify(title, local_trends,random_trend)
+        ###random_trend = randint(0, len(local_trends) - 1)
+        everything = fakenewsify(title, local_trends)
+        fake_title = everything[0]
+        trendNew = everything[1]
         if fake_title is None:
             continue
 
@@ -70,7 +72,7 @@ def do_generate(publication='demorgen'):
                 continue
         image = image.text or image.get('url')
 
-        fake_items.append({'title': fake_title, 'local_trend':local_trends[0],'image': image})
+        fake_items.append({'title': fake_title, 'local_trend':trendNew,'image': image})
     return fake_items
 
 
