@@ -30,11 +30,12 @@ def fakenewsify(title, trends):
     ### random_trend_index = num
     random_trend_index = randint(0, len(trends) - 1)
     words = [word_data[0] for word_data in first_sentence]
-    words[index_to_replace] = trends[random_trend_index]
+    chosen_trend = trends[random_trend_index]
+    words[index_to_replace] = chosen_trend
     del trends[random_trend_index]
 
     new_sentence = ' '.join(words)
-    return [new_sentence,trends[random_trend_index]]
+    return [new_sentence,chosen_trend]
 
 
 def do_fetch(publication='demorgen'):
