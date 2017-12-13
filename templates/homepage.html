@@ -12,11 +12,10 @@
 <body>
 
   <head>
-    <<<<<<< HEAD <h1>TrendFeed-logo</h1>
-
-      <h1>hand-left</h1>
-      <h1></h1>
-      <h1>hand-right</h1>
+    <h1>TrendFeed-logo</h1>
+    <h1>hand-left</h1>
+    <h1></h1>
+    <h1>hand-right</h1>
   </head>
 
   <div class="menu">
@@ -25,49 +24,26 @@
     <a href="#followList">Follow</a>
   </div>
 
-  <div id="trendList">
-    <div class="trendBorder">
-      <div class="plotTrend">
+  <div class="plotTrend">
 
-        {% for trend in trends %}
-        <trend>
-          <h2>
-            {{ trend }}
-          </h2>
-        </trend>
-        {% endfor %}
+    {% for trend in trends %}
 
-      </div>
-    </div>
+    <h2>
+      {{ trend }}
+    </h2>
+
+    {% endfor %}
+
   </div>
 
-  <div id="aboutList">
-    <div class="aboutBorder">
-      <div class="plotAbout">
-        <h2>About us.</h2>
 
-        <p>Hi, we are TrendFeed. We produce news that really interests you. In a an age were everybody is connected by social
-          media the whole world enters your mind by glimpses of the truth. Maybe Fake news is a larger concept than we think,
-          in how far is the media truth to reality? and in how far do they just want to be the most popular? TrendFeed is
-          a project that took this fact as inspiration. We generate Fake News by mixing real headliner news and the most
-          trending terms on the internet. By tricking you we hope to provoke a critic attitude against the media these days.</p>
-        <br>
-        <p>Time is going fast and everything has to go fast today this has the consequence that we don’t take the time to watch
-          the news, read the paper, watch documentaries. Media responds to this by shortening their articles and making their
-          headlines more attractive. But isn’t this a form of censorship? by leaving more and more small details, the context
-          of a story, person, happening,… will get lost and the story gets more blurry.</p>
-        <br>
-        <p>The core of taking decisions in which is worth to publish or not has shifted from what is really important news to
-          what interestes us. We are more interested in the social life of a famous person than real world news. We are presented
-          with an illusion of choice but in reality just a few companies controls the media stream. And we eat it!</p>
-      </div>
-    </div>
-  </div>
 
-  <div class="poltArticle">
+  <div class="plotArticle">
     {% for item in items %}
     <article>
-      <h2>{{ item.title }}</h2>
+      {% for word in item.title %}
+      <span>{{ word.woord }}</span>{% endfor %}
+      <!-- <h2>{{ item.title }}</h2> -->
       <img src="{{ item.image }}" alt="">
     </article>
     {% endfor %}
@@ -77,35 +53,6 @@
     <p>Created by Kamiel Konings - Cis Druyts. Engine by code studio.</p>
   </footer>
 
-  =======
-
-  </head>
-
-  <menu>
-    <a href="">Trends</a>
-    <a href="">About</a>
-    <a href="">Follow</a>
-  </menu>
-
-  <div class="poltArticle">
-    {% for item in items %}
-    <article>
-      <h2>{{ item.title }}</h2>
-      <img src="{{ item.image }}" alt="">
-    </article>
-    {% endfor %}
-  </div>
-
-  <div class="plotTrend">
-    {% for trend in trends %}
-    <trend>
-      <h2>
-        {{ trend }}
-      </h2>
-    </trend>
-    {% endfor %}
-  </div>
-  >>>>>>> parent of fbd6226... update html
 </body>
 
 </html>

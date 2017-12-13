@@ -25,7 +25,7 @@ def fakenewsify(title, trends):
         if tag == 'NNP':
             tag_indices.append(i)
     if len(tag_indices) == 0:
-        return None
+        return [None, None]
     index_to_replace = choice(tag_indices)
     ### random_trend_index = num
     random_trend_index = randint(0, len(trends) - 1)
@@ -33,9 +33,16 @@ def fakenewsify(title, trends):
     chosen_trend = trends[random_trend_index]
     words[index_to_replace] = chosen_trend
     del trends[random_trend_index]
+    for i,word in enumerate(words):
+        if (i==index_to_replace):
+            new_sentence_words.append({'woord': word,'class': 1})
+        else:
+            new_sentence_words.append({'woord': word,'class': 0})
+      
 
     new_sentence = ' '.join(words)
-    return [new_sentence,chosen_trend]
+    ###return [new_sentence,chosen_trend]
+    return new_sentence_words
 
 
 def do_fetch(publication='demorgen'):
@@ -59,13 +66,12 @@ def do_generate(publication='demorgen'):
     for item in root.find('channel').findall('item'):
         if len(local_trends) == 0: break
         title = item.find('title').text
-        ###random_trend = randint(0, len(local_trends) - 1)
-        everything = fakenewsify(title, local_trends)
-        fake_title = everything[0]
-        trendNew = everything[1]
+        ###fake_title, trendNew = fakenewsify(title, local_trends)
+        fake_word = fakenewsify(title, local_trends)
+        '''
         if fake_title is None:
             continue
-
+        '''
         image = item.find('content:encoded', ns)
         if image is None:
             image = item.find('media:content', ns)
@@ -73,7 +79,9 @@ def do_generate(publication='demorgen'):
                 continue
         image = image.text or image.get('url')
 
-        fake_items.append({'title': fake_title, 'local_trend':trendNew,'image': image})
+        ###fake_items.append({'title': fake_title, 'local_trend':trendNew,'image': image})
+        fake_items.append({'title': fake_word,'image': image})
+
     return fake_items
 
 
