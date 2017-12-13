@@ -70,7 +70,7 @@ def do_generate(publication='demorgen'):
                 continue
         image = image.text or image.get('url')
 
-        fake_items.append({'title': fake_title, 'local_trend':local_trends[random_trend],'image': image})
+        fake_items.append({'title': fake_title, 'local_trend':local_trends[0],'image': image})
     return fake_items
 
 
