@@ -42,7 +42,7 @@
     {% for item in items %}
     <article>
       {% for word in item.title %}
-      <span>{{ word.woord }}</span>{% endfor %}
+      <span class="{{ word.class }}">{{ word.woord }}</span>{% endfor %}
       <!-- <h2>{{ item.title }}</h2> -->
       <img src="{{ item.image }}" alt="">
     </article>

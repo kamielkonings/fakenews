@@ -35,9 +35,9 @@ def fakenewsify(title, trends):
     del trends[random_trend_index]
     for i,word in enumerate(words):
         if (i==index_to_replace):
-            new_sentence_words.append({'woord': word,'class': 1})
+            new_sentence_words.append({'woord': word,'class': "special"})
         else:
-            new_sentence_words.append({'woord': word,'class': 0})
+            new_sentence_words.append({'woord': word,'class': "normal"})
       
 
     new_sentence = ' '.join(words)
