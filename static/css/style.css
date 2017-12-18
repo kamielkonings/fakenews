@@ -116,12 +116,14 @@ h2 {
   color: #6222d1;
 
   font-family: Rockwell-Bolditalic;
+  font-size: 25px;
 }
 .listContainer,
 h3 {
   color: #6222d1;
 
   font-family: Rockwell-Bold;
+  font-size: 20px;
 }
 .listContainer,
 h4,
@@ -129,6 +131,17 @@ p {
   color: #6222d1;
 
   font-family: PtSans-Italic;
+  font-size: 20px;
+}
+.listContainer,
+ol {
+  text-decoration: none;
+}
+.listContainer,
+ol,
+li {
+  font-family: Rockwell-Bold;
+  font-size: 25px;
 }
 
 .plotArticle {
