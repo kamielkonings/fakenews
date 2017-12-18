@@ -3,7 +3,7 @@
   src: url(typo/Rockwell/Rockwell-Bold.otf);
 }
 @font-face {
-  font-family: Rockwell-BoldItalic;
+  font-family: Rockwell-Bolditalic;
   src: url(typo/Rockwell/Rockwell-Bolditalic.otf);
 }
 @font-face {
@@ -24,15 +24,13 @@ header {
 }
 
 .menu {
-  background-color: white;
-
   padding: 25px;
 }
 .menu,
 a {
   color: #6222d1;
 
-  font-family: Rockwell-BoldItalic;
+  font-family: Rockwell-Bolditalic;
   font-size: 80px;
 
   text-decoration: none;
@@ -115,7 +113,7 @@ h1,
 h2 {
   color: #6222d1;
 
-  font-family: Rockwell-BoldItalic;
+  font-family: Rockwell-Bolditalic;
   font-size: 25px;
 }
 .listContainer,
