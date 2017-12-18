@@ -11,46 +11,89 @@
 
 <body>
 
-  <head>
-    <h1>TrendFeed-logo</h1>
-    <h1>hand-left</h1>
-    <h1></h1>
-    <h1>hand-right</h1>
-  </head>
-
-  <div class="menu">
-    <a href="#trendList">Trends</a>
-    <a href="#aboutList">About</a>
-    <a href="#followList">Follow</a>
-  </div>
-
-  <div class="plotTrend">
-
-    {% for trend in trends %}
-
-    <h2>
-      {{ trend }}
-    </h2>
-
-    {% endfor %}
-
-  </div>
+  <header>
+    <h1>TrendFeed</h1>
+    <h5>Feeding your daily news.</h5>
 
 
+    <div class="menu">
 
-  <div class="plotArticle">
-    {% for item in items %}
-    <article>
-      {% for word in item.title %}
-      <span class="{{ word.class }}">{{ word.woord }}</span>{% endfor %}
-      <!-- <h2>{{ item.title }}</h2> -->
-      <img src="{{ item.image }}" alt="">
-    </article>
-    {% endfor %}
+      <a href="#refresh">#Refresh</a>
+      <a href="#trendList">#Trends</a>
+      <a href="#aboutList">#About</a>
+      <a href="#followList">#Follow</a>
+
+    </div>
+  </header>
+
+  <div class="content">
+    <div id="trendList">
+      <div class="listContainer">
+        <div class="trendListContent">
+          <h2>#Trends</h2>
+          <div class="plotTrend">
+
+            {% for trend in trends %}
+
+            <h3>
+              {{ trend }}
+            </h3>
+
+            {% endfor %}
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="aboutList">
+      <div class="listContainer">
+        <div class="aboutListContent">
+          <h2>#About TrendFeed.</h2>
+          <h4>Feeding your daily news.</h4>
+          <p>
+            Hi, we are TrendFeed. We produce news that really interests you. In a an age were everybody is connected by social media
+            the whole world enters your mind by glimpses of the truth. Maybe Fake news is a larger concept than we think,
+            in how far is the media truth to reality? and in how far do they just want to be the most popular? TrendFeed
+            is a project that took this fact as inspiration. We generate Fake News by mixing real headliner news and the
+            most trending terms on the internet. By tricking you we hope to provoke a critic attitude against the media these
+            days.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="plotArticle">
+      {% for item in items %}
+      <article>
+
+        <!-- <h2>{{ item.title }}</h2> -->
+        <div class="filtered">
+          <img src="{{ item.image }}" alt="">
+        </div>
+
+        <div class="articleHeadliner">
+          {% for word in item.title %}
+          <span class="{{ word.class }}">{{ word.woord }}</span>{% endfor %}
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+
+    <div id="followList">
+      <div class="listContainer">
+        <div class="followListContent">
+          <h3>#Follow</h3>
+          <a href="facebook">#Facebook</a>
+          <a href="twitter">#Twitter</a>
+          <a href="instagram">#Instagram</a>
+        </div>
+      </div>
+    </div>
   </div>
 
   <footer>
-    <p>Created by Kamiel Konings - Cis Druyts. Engine by code studio.</p>
+    <h3><a href="#Refresh">#Refresh</a> your our page for the most recent news.</h3>
   </footer>
 
 </body>
