@@ -32,16 +32,23 @@
         <div class="trendListContent">
           <h2>#Trends</h2>
           <div class="plotTrend">
+            <ol>
+              {% for trend in trends %}
 
-            {% for trend in trends %}
+              <li>#{{ trend }}</li>
 
-            <h3>
-              {{ trend }}
-            </h3>
-
-            {% endfor %}
-
+              {% endfor %}
+            </ol>
           </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="shareList">
+      <div class="listContainer">
+        <div class="shareContainer">
+          <h2>#Share</h2>
+          <h3>Share this!</h3>
         </div>
       </div>
     </div>

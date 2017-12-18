@@ -24,8 +24,6 @@ header {
 }
 
 .menu {
-  position: fixed;
-
   background-color: white;
 
   padding: 25px;
@@ -66,7 +64,7 @@ h5 {
 }
 
 img {
-  max-width: 100%;
+  width: 100%;
 }
 .filtered {
   background: #6222d1;
@@ -94,6 +92,14 @@ span {
   font-family: PtSans-Italic;
 
   word-spacing: 10px;
+}
+
+.shareList {
+  padding: 40px;
+}
+
+.aboutList {
+  margin: 15px;
 }
 
 .listContainer {
@@ -125,12 +131,24 @@ p {
   font-family: PtSans-Italic;
 }
 
+.plotArticle {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  width: 40%;
+}
 article {
-  size: 25%;
+  padding-bottom: 25px;
+  padding-top: 25px;
 }
 .articleHeadliner {
   background-color: yellow;
-  padding: 25px;
+
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 10px;
 }
 
 footer {

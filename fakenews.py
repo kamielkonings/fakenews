@@ -90,7 +90,7 @@ def get_trends():
     local_trends = all_trends['41']  # Belgie
 
 
-    return local_trends
+    return local_trends [:10]
 
 def usage():
     print "python fakenews.py [command]"
