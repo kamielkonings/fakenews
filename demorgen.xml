@@ -6,8 +6,8 @@
     <description>Nieuws</description>
     <language>nl-BE</language>
     <copyright>de Persgroep Publishing NV</copyright>
-    <pubDate>Tue, 19 Dec 2017 14:59:45 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Dec 2017 14:59:45 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Dec 2017 15:24:08 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Dec 2017 15:24:08 GMT</lastBuildDate>
     <image>
       <title>De Morgen</title>
       <url>//www.demorgen.be/static/img/Logo_DeMorgen_RSS.png?r=3.61</url>
@@ -15,6 +15,26 @@
       <width>-1</width>
       <height>-1</height>
     </image>
+    <item>
+      <title>Vrouw die Parkinson kan ruiken helpt wetenschap stap vooruit</title>
+      <link>https://www.demorgen.be/wetenschap/vrouw-die-parkinson-kan-ruiken-helpt-wetenschap-stap-vooruit-b845c748/</link>
+      <description>De wetenschap staat een stap dichter bij de allereerste test om de ziekte van Parkinson op te sporen. Met dank aan de vrouw die de ziekte kan ruiken.</description>
+      <content:encoded>https://images0.persgroep.net/rcs/Fqn8susO5JERwRMuTgqEcr2rlno/diocontent/105311215/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
+      <pubDate>Tue, 19 Dec 2017 15:21:31 GMT</pubDate>
+      <guid>https://www.demorgen.be/wetenschap/vrouw-die-parkinson-kan-ruiken-helpt-wetenschap-stap-vooruit-b845c748/</guid>
+      <dc:creator>Redactie</dc:creator>
+      <g-custom:is-plus type="boolean">false</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Het ultieme Cult.overzicht van het jaar: aftellen van 60 naar 41</title>
+      <link>https://www.demorgen.be/cultuur/het-ultieme-cult-overzicht-van-het-jaar-aftellen-van-60-naar-41-b5469673/</link>
+      <description>De Cult.redactie van &lt;i&gt;De Morgen&lt;/i&gt; serveert een week lang het ultieme Cult.overzicht van het jaar. Van film over theater naar muziek: welke honderd dingen staken er het afgelopen jaar met kop, schouder en - vooral - bonte hanenkam bovenuit? Vandaag tellen we af van 60 naar 41.</description>
+      <content:encoded>https://images0.persgroep.net/rcs/vhNSfw-4xE5BlF03NWXklbeKW74/diocontent/104757073/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
+      <pubDate>Tue, 19 Dec 2017 15:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/cultuur/het-ultieme-cult-overzicht-van-het-jaar-aftellen-van-60-naar-41-b5469673/</guid>
+      <dc:creator>Cult.redactie</dc:creator>
+      <g-custom:is-plus type="boolean">false</g-custom:is-plus>
+    </item>
     <item>
       <title>Natali, Nathalie en Kaat: de drie vrouwen achter de film 'Façades'</title>
       <link>https://www.demorgen.be/film/natali-nathalie-en-kaat-de-drie-vrouwen-achter-de-film-facades-b2946c0d/</link>
