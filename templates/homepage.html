@@ -12,95 +12,114 @@
 <body>
 
   <header>
-    <h1>TrendFeed</h1>
-    <h5>Feeding your daily news.</h5>
 
+    <div class="headerImage">
+      <img src="\static\css\image\Header_Logo.jpg" alt="TrendFeed-Headliner">
+    </div>
 
-    <div class="menu">
+    <div class="headerFixed">
+      <div class="headerBanner">
+        <img src="\static\css\image\Animation_Hand_Left.gif" alt="Hand-animation-left" style="width:38%;">
+        <h1>Feeding your daily news.</h1>
+        <img src="\static\css\image\Animation_Hand_Right.gif" alt="Hand-animation-right" style="width:38%;">
+      </div>
 
-      <a href="javascript:window.location.reload();">#Refresh</a>
-      <a href="#trendList">#Trends</a>
-      <a href="#aboutList">#About</a>
-      <a href="#followList">#Follow</a>
-
+      <div class="headerMenu">
+        <a href="javascript:window.location.reload();">#Refresh</a>
+        <a href="#trendList">#Trends</a>
+        <a href="#aboutList">#About</a>
+        <a href="#followList">#Follow</a>
+      </div>
     </div>
   </header>
 
-  <div class="content">
-    <div id="trendList">
-      <div class="listContainer">
-        <div class="trendListContent">
-          <h2>#Trends</h2>
-          <div class="plotTrend">
-            <ol>
-              {% for trend in trends %}
+  <div class="contentWrap">
+    <div class="contentWrapEntity">
+      <div id="trendList">
+        <div class="listContainer">
+          <div class="trendListContent">
+            <h2>#Trends</h2>
+            <div class="plotTrend">
+              <ol>
+                {% for trend in trends %}
 
-              <li>#{{ trend }}</li>
+                <li>#{{ trend }}</li>
 
-              {% endfor %}
-            </ol>
+                {% endfor %}
+              </ol>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="shareList">
+        <div class="listContainer">
+          <div class="shareListContent">
+            <img src="\static\css\image\Animation_Hand_Left.gif" alt="Hand-animation-left" style="width:40%;">
+            <a href="sharelink">#Share</a>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="shareList">
-      <div class="listContainer">
-        <div class="shareContainer">
-          <h2>#Share</h2>
-          <h3>Share this!</h3>
+    <div class="contentWrapEntity">
+      <div class="plotArticle">
+        {% for item in items %}
+        <article>
+
+          <!-- <h2>{{ item.title }}</h2> -->
+          <div class="filtered">
+            <img src="{{ item.image }}" alt="">
+          </div>
+
+          <div class="articleHeadliner">
+            {% for word in item.title %}
+            <span class="{{ word.class }}">{{ word.woord }}</span>{% endfor %}
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="contentWrapEntity">
+      <div id="aboutList">
+        <div class="listContainer">
+          <div class="aboutListContent">
+            <h2>#About</h2>
+            <h3>Feeding your daily news.</h3>
+            <p>
+              Hi, we are TrendFeed. We produce news that really interests you. In a an age were everybody is connected by social media
+              the whole world enters your mind by glimpses of the truth. Maybe Fake news is a larger concept than we think,
+              in how far is the media truth to reality? and in how far do they just want to be the most popular? TrendFeed
+              is a project that took this fact as inspiration. We generate Fake News by mixing real headliner news and the
+              most trending terms on the internet. By tricking you we hope to provoke a critic attitude against the media
+              these days.
+            </p>
+          </div>
         </div>
       </div>
     </div>
 
-    <div id="aboutList">
-      <div class="listContainer">
-        <div class="aboutListContent">
-          <h2>#About TrendFeed.</h2>
-          <h4>Feeding your daily news.</h4>
-          <p>
-            Hi, we are TrendFeed. We produce news that really interests you. In a an age were everybody is connected by social media
-            the whole world enters your mind by glimpses of the truth. Maybe Fake news is a larger concept than we think,
-            in how far is the media truth to reality? and in how far do they just want to be the most popular? TrendFeed
-            is a project that took this fact as inspiration. We generate Fake News by mixing real headliner news and the
-            most trending terms on the internet. By tricking you we hope to provoke a critic attitude against the media these
-            days.
-          </p>
-        </div>
-      </div>
-    </div>
-
-    <div class="plotArticle">
-      {% for item in items %}
-      <article>
-
-        <!-- <h2>{{ item.title }}</h2> -->
-        <div class="filtered">
-          <img src="{{ item.image }}" alt="">
-        </div>
-
-        <div class="articleHeadliner">
-          {% for word in item.title %}
-          <span class="{{ word.class }}">{{ word.woord }}</span>{% endfor %}
-        </div>
-      </article>
-      {% endfor %}
-    </div>
-
-    <div id="followList">
-      <div class="listContainer">
-        <div class="followListContent">
-          <h3>#Follow</h3>
-          <a href="https://www.facebook.com/TrendFeed-1923367597689674/?ref=bookmarks" target="tab">#Facebook</a>
-          <a href="twitter">#Twitter</a>
-          <a href="instagram">#Instagram</a>
+    <div class="contentWrapEntity">
+      <div id="followList">
+        <div class="listContainer">
+          <div class="followListContent">
+            <h3>#Follow</h3>
+            <a href="https://www.facebook.com/TrendFeed-1923367597689674/?ref=bookmarks" target="tab" style="font-size:22px;">#Facebook</a>
+            <a href="twitter" target="tab" style="font-size:22px;">#Twitter</a>
+            <a href="instagram" target="tab" style="font-size:22px;">#Instagram</a>
+          </div>
         </div>
       </div>
     </div>
   </div>
 
   <footer>
-    <h3><a href="javascript:window.location.reload();">#Refresh</a> your our page for the most recent news.</h3>
+    <div class="footerBanner">
+      <img src="\static\css\image\Animation_Hand_Left.gif" alt="Hand-animation-left" style="width:40%;">
+      <a href="javascript:window.location.reload();">#Refresh</a>
+      <img src="\static\css\image\Animation_Hand_Right.gif" alt="Hand-animation-right" style="width:40%;">
+    </div>
   </footer>
 
 </body>
