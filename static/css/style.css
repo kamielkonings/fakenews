@@ -4,7 +4,7 @@
 }
 @font-face {
   font-family: Rockwell-Bolditalic;
-  src: url(typo/Rockwell/Rockwell-Bolditalic.otf);
+  src: url(typo/Rockwell/Rockwell-BoldItalic.otf);
 }
 @font-face {
   font-family: PtSans-Italic;
@@ -60,7 +60,7 @@ h1 {
 a {
   color: #6222d1;
 
-  font-family: Rockwell-Bolditalic;
+  font-family: Rockwell-BoldItalic;
   font-size: 45px;
 
   text-decoration: none;
@@ -88,7 +88,7 @@ h2 {
   color: #6222d1;
 
   font-size: 30px;
-  font-family: Rockwell-Bolditalic;
+  font-family: Rockwell-BoldItalic;
 }
 
 .listContainer,
