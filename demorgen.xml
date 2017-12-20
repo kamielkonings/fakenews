@@ -6,8 +6,8 @@
     <description>Nieuws</description>
     <language>nl-BE</language>
     <copyright>de Persgroep Publishing NV</copyright>
-    <pubDate>Wed, 20 Dec 2017 09:50:33 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Dec 2017 09:50:33 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Dec 2017 10:19:31 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2017 10:19:31 GMT</lastBuildDate>
     <image>
       <title>De Morgen</title>
       <url>//www.demorgen.be/static/img/Logo_DeMorgen_RSS.png?r=3.61</url>
@@ -15,6 +15,65 @@
       <width>-1</width>
       <height>-1</height>
     </image>
+    <item>
+      <title>'Kijker, kerk en kosmos': vroege teksten van Galileo Galilei eindelijk vertaald</title>
+      <link>https://www.demorgen.be/boeken/-kijker-kerk-en-kosmos-vroege-teksten-van-galileo-galilei-eindelijk-vertaald-bedacedc/</link>
+      <description>Wat Galilei zag toen hij in 1609 voor het eerst een telescoop op de hemel richtte en hoe hij zijn bevindingen later in een brief verdedigde, leverde twee belangrijke teksten op. Voor het eerst zijn ze nu ook in het Nederlands te lezen.&amp;nbsp;</description>
+      <content:encoded>https://images0.persgroep.net/rcs/PvvvGhhG-GPdzY3eX7blu0vHe0U/diocontent/116402097/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
+      <pubDate>Wed, 20 Dec 2017 10:19:29 GMT</pubDate>
+      <guid>https://www.demorgen.be/boeken/-kijker-kerk-en-kosmos-vroege-teksten-van-galileo-galilei-eindelijk-vertaald-bedacedc/</guid>
+      <dc:creator>Marnix Verplancke</dc:creator>
+      <g-custom:is-plus type="boolean">false</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Loon Belgische topmanagers neemt kaap twee miljoen euro</title>
+      <link>https://www.demorgen.be/economie/loon-belgische-topmanagers-neemt-kaap-twee-miljoen-euro-b7ebab2e/</link>
+      <description>&lt;span&gt;De mediane verloning van de grote baas van een Bel-20-bedrijf bedroeg in 2016 2.080.000 euro. Dat is ruim een kwart (26 procent) meer dan in het jaar daarvoor. Dat blijkt uit onderzoek van professor Xavier Baeten van de Vlerick Business School.&lt;/span&gt;</description>
+      <content:encoded>https://images0.persgroep.net/rcs/WzgYVfyWHElzR9ZOq7YLGNI4E-I/diocontent/108448911/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
+      <pubDate>Wed, 20 Dec 2017 10:11:32 GMT</pubDate>
+      <guid>https://www.demorgen.be/economie/loon-belgische-topmanagers-neemt-kaap-twee-miljoen-euro-b7ebab2e/</guid>
+      <dc:creator>Redactie</dc:creator>
+      <g-custom:is-plus type="boolean">false</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Tien films die u deze week niet mag missen</title>
+      <link>https://www.demorgen.be/film/tien-films-die-u-deze-week-niet-mag-missen-b9d292f1/</link>
+      <content:encoded>https://images0.persgroep.net/rcs/t2n-dDVw1jEBvoTDrBexhQb3ngw/diocontent/116568320/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
+      <pubDate>Wed, 20 Dec 2017 10:09:38 GMT</pubDate>
+      <guid>https://www.demorgen.be/film/tien-films-die-u-deze-week-niet-mag-missen-b9d292f1/</guid>
+      <dc:creator>Lieven Trio, Robin Broos, Ewoud Ceulemans</dc:creator>
+      <g-custom:is-plus type="boolean">false</g-custom:is-plus>
+    </item>
+    <item>
+      <title>'Falstaff' bij Opera Vlaanderen: Christoph Waltz kiest voor bitterzoete humor</title>
+      <link>https://www.demorgen.be/podium/-falstaff-bij-opera-vlaanderen-christoph-waltz-kiest-voor-bitterzoete-humor-b0e8298a/</link>
+      <description>De tweede operaregie van Oscarwinnaar Christoph Waltz drijft de soberheid tot het uiterste. Maar wat in &lt;i&gt;Rosenkavalier&lt;/i&gt; gezocht subtiel leek, wordt in &lt;i&gt;Falstaff&lt;/i&gt; helder.</description>
+      <content:encoded>https://images0.persgroep.net/rcs/ILare6pqbJM5tJkmBmAjpMsL2Cc/diocontent/116568475/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
+      <pubDate>Wed, 20 Dec 2017 10:03:30 GMT</pubDate>
+      <guid>https://www.demorgen.be/podium/-falstaff-bij-opera-vlaanderen-christoph-waltz-kiest-voor-bitterzoete-humor-b0e8298a/</guid>
+      <dc:creator>Stephan Moens</dc:creator>
+      <g-custom:is-plus type="boolean">false</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Gent wil graag eigen openbaar vervoer</title>
+      <link>https://www.demorgen.be/binnenland/gent-wil-graag-eigen-openbaar-vervoer-bc521f77/</link>
+      <description>De stad Gent wil haar openbaar vervoer zelf kunnen uitbouwen. Volgens de stad kan De Lijn niet voldoen aan de grote mobiliteitsnoden in Gent. “In Frankrijk regelen de stadsgewesten het ook zelf. Waarom zou het hier niet lukken?”</description>
+      <content:encoded>https://images0.persgroep.net/rcs/WqAydY0vp4Fwl0j9cJ7I39_Q-9c/diocontent/46283617/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
+      <pubDate>Wed, 20 Dec 2017 10:00:31 GMT</pubDate>
+      <guid>https://www.demorgen.be/binnenland/gent-wil-graag-eigen-openbaar-vervoer-bc521f77/</guid>
+      <dc:creator>Cathy Galle</dc:creator>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Dit moet u weten voor u gaat eten</title>
+      <link>https://www.demorgen.be/nieuws/dit-moet-u-weten-voor-u-gaat-eten-bbcf9d318/</link>
+      <description>Verscheidene Sudanezen die in oktober werden teruggestuurd zeggen dat ze bij aankomst werden gefolterd. Vakbonden en oppositie hebben kritiek op het voorstel van Antwerps burgemeester Bart De Wever (N-VA) om vrijwilligers in te zetten bij de politie. En hond Uscko krijgt wellicht geen spuitje. Dit is het belangrijkste nieuws van deze ochtend.</description>
+      <content:encoded>https://images0.persgroep.net/rcs/y1nJUYjS7LwlaqHr_DReK4pNNgc/diocontent/116470568/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
+      <pubDate>Wed, 20 Dec 2017 09:57:31 GMT</pubDate>
+      <guid>https://www.demorgen.be/nieuws/dit-moet-u-weten-voor-u-gaat-eten-bbcf9d318/</guid>
+      <dc:creator>Redactie</dc:creator>
+      <g-custom:is-plus type="boolean">false</g-custom:is-plus>
+    </item>
     <item>
       <title>'De stad wint altijd': een dijk van een debuutroman</title>
       <link>https://www.demorgen.be/boeken/-de-stad-wint-altijd-een-dijk-van-een-debuutroman-b54b1ae3/</link>
@@ -276,16 +335,6 @@
       <g-custom:is-plus type="boolean">false</g-custom:is-plus>
     </item>
     <item>
-      <title>Simon Schama loodst de lezer in het hart en de ziel van de Joden</title>
-      <link>https://www.demorgen.be/boeken/simon-schama-loodst-de-lezer-in-het-hart-en-de-ziel-van-de-joden-bc9c7bda/</link>
-      <description>De Britse historicus Simon Schama voegt met ‘Erbij horen, 1492-1900’ een indrukwekkend tweede deel toe aan zijn &lt;i&gt;Geschiedenis van de Joden&lt;/i&gt;. Of hoe een volk er maar niet in slaagt aansluiting te krijgen bij de rest van de wereld. En dan moet de 20ste eeuw nog beginnen.</description>
-      <content:encoded>https://images0.persgroep.net/rcs/CNzQwI_mdWtJDU3xC8hklXOEqYU/diocontent/116509417/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
-      <pubDate>Wed, 20 Dec 2017 05:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/boeken/simon-schama-loodst-de-lezer-in-het-hart-en-de-ziel-van-de-joden-bc9c7bda/</guid>
-      <dc:creator>Joseph Pearce</dc:creator>
-      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
       <title>Productiehuis Marmalade blijft worstelen met onbetaalde facturen</title>
       <link>https://www.demorgen.be/tvmedia/productiehuis-marmalade-blijft-worstelen-met-onbetaalde-facturen-b3ffe166/</link>
       <description>Marmalade, het productiehuis achter de musicals&amp;nbsp;&lt;i&gt;De kleine Zeemeermin&lt;/i&gt;&amp;nbsp;en &lt;i&gt;Beauty &amp;amp; The Beast &lt;/i&gt;en films als &lt;i&gt;Wat mannen willen&lt;/i&gt;, &lt;i&gt;Bad Trip&lt;/i&gt; en &lt;i&gt;Alleen Eline&lt;/i&gt; blijft het financieel moeilijk hebben. Vijfentachtig schuldeisers hebben zich nu verenigd in een poging toch nog wat centen los te weken.</description>
@@ -293,6 +342,16 @@
       <pubDate>Wed, 20 Dec 2017 05:00:00 GMT</pubDate>
       <guid>https://www.demorgen.be/tvmedia/productiehuis-marmalade-blijft-worstelen-met-onbetaalde-facturen-b3ffe166/</guid>
       <dc:creator>Pieter Dumon</dc:creator>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Simon Schama loodst de lezer in het hart en de ziel van de Joden</title>
+      <link>https://www.demorgen.be/boeken/simon-schama-loodst-de-lezer-in-het-hart-en-de-ziel-van-de-joden-bc9c7bda/</link>
+      <description>De Britse historicus Simon Schama voegt met ‘Erbij horen, 1492-1900’ een indrukwekkend tweede deel toe aan zijn &lt;i&gt;Geschiedenis van de Joden&lt;/i&gt;. Of hoe een volk er maar niet in slaagt aansluiting te krijgen bij de rest van de wereld. En dan moet de 20ste eeuw nog beginnen.</description>
+      <content:encoded>https://images0.persgroep.net/rcs/CNzQwI_mdWtJDU3xC8hklXOEqYU/diocontent/116509417/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
+      <pubDate>Wed, 20 Dec 2017 05:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/boeken/simon-schama-loodst-de-lezer-in-het-hart-en-de-ziel-van-de-joden-bc9c7bda/</guid>
+      <dc:creator>Joseph Pearce</dc:creator>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -1442,26 +1501,6 @@ Commentator
       <pubDate>Tue, 19 Dec 2017 10:27:32 GMT</pubDate>
       <guid>https://www.demorgen.be/nieuws/dit-moet-u-weten-voor-u-gaat-eten-b093c2ce/</guid>
       <dc:creator>Redactie</dc:creator>
-      <g-custom:is-plus type="boolean">false</g-custom:is-plus>
-    </item>
-    <item>
-      <title>"Er is geen politieke wil om op te komen voor gevangen Belgische IS-strijders"</title>
-      <link>https://www.demorgen.be/politiek/-er-is-geen-politieke-wil-om-op-te-komen-voor-gevangen-belgische-is-strijders-b4ee017b/</link>
-      <description>De regering staat voor een juridisch dilemma nu ze weigert gevangen IS-strijders terug te halen uit Irak, berucht om zijn oneerlijke processen en de doodstraf, waar België zich principieel tegen verzet. 'De regering moet de Iraakse overheden oproepen tot respect voor de mensenrechten.'</description>
-      <content:encoded>https://images0.persgroep.net/rcs/zJGCFfIDBoBjWgaZLmk9P5ZVfcM/diocontent/108176087/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
-      <pubDate>Tue, 19 Dec 2017 10:25:22 GMT</pubDate>
-      <guid>https://www.demorgen.be/politiek/-er-is-geen-politieke-wil-om-op-te-komen-voor-gevangen-belgische-is-strijders-b4ee017b/</guid>
-      <dc:creator>Maarten Rabaey</dc:creator>
-      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
-      <title>Kandidaat-rechter van Trump trekt zich terug nadat hij compleet door de mand viel tijdens hoorzitting</title>
-      <link>https://www.demorgen.be/buitenland/kandidaat-rechter-van-trump-trekt-zich-terug-nadat-hij-compleet-door-de-mand-viel-tijdens-hoorzitting-b1f83a18/</link>
-      <description>Matthew Petersen, die door president Trump was voorgedragen als rechter in Washington DC, gooit de handdoek in de ring na zijn ontluisterende hoorzitting vorige week in de Senaat. Petersen slaagde er niet in de meest eenvoudige kennisvragen over recht te beantwoorden en moest keer op keer negatief antwoorden op vragen of hij al ervaring had in verschillende soorten rechtszaken.</description>
-      <content:encoded>https://images0.persgroep.net/rcs/9JhSOTOpN9BiZAhwnTuFXBrBpNg/diocontent/116461421/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
-      <pubDate>Tue, 19 Dec 2017 10:12:25 GMT</pubDate>
-      <guid>https://www.demorgen.be/buitenland/kandidaat-rechter-van-trump-trekt-zich-terug-nadat-hij-compleet-door-de-mand-viel-tijdens-hoorzitting-b1f83a18/</guid>
-      <dc:creator>TT</dc:creator>
       <g-custom:is-plus type="boolean">false</g-custom:is-plus>
     </item>
   </channel>

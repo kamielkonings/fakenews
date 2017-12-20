@@ -25,7 +25,7 @@ def fakenewsify(title, trends):
         if tag == 'NNP':
             tag_indices.append(i)
     if len(tag_indices) == 0:
-        return [None, None]
+        return None
     index_to_replace = choice(tag_indices)
     ### random_trend_index = num
     random_trend_index = randint(0, len(trends) - 1)
@@ -57,7 +57,8 @@ def do_fetch(publication='demorgen'):
 def do_generate(publication='demorgen'):
     all_trends = json.load(open('trends.json'))
     local_trends = all_trends['41']  # Belgie
-
+    local_trends = local_trends[:10]
+    
     tree = ET.parse(publication + '.xml')
     root = tree.getroot()
 
@@ -67,13 +68,9 @@ def do_generate(publication='demorgen'):
         if len(local_trends) == 0: break
         title = item.find('title').text
         ###fake_title, trendNew = fakenewsify(title, local_trends)
-        fake_word = fakenewsify(title, local_trends)
-        '''
-        if fake_title is None:
-            continue
-        '''
-
-        if fake_word is None:
+        fake_words = fakenewsify(title, local_trends)
+       
+        if fake_words is None:
             continue
 
         image = item.find('content:encoded', ns)
@@ -84,7 +81,7 @@ def do_generate(publication='demorgen'):
         image = image.text or image.get('url')
 
         ### fake_items.append({'title': fake_title, 'local_trend':trendNew,'image': image})
-        fake_items.append({'title': fake_word,'image': image})
+        fake_items.append({'title': fake_words,'image': image})
 
     return fake_items
 

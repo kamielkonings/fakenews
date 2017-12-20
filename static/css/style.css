@@ -52,6 +52,8 @@ h1 {
 }
 
 .headerMenu {
+  position: fixed;
+  z-index: 999;
   display: list-item;
 
   padding: 25px;
