@@ -72,6 +72,10 @@ def do_generate(publication='demorgen'):
         if fake_title is None:
             continue
         '''
+
+        if fake_word is None:
+            continue
+
         image = item.find('content:encoded', ns)
         if image is None:
             image = item.find('media:content', ns)
@@ -79,7 +83,7 @@ def do_generate(publication='demorgen'):
                 continue
         image = image.text or image.get('url')
 
-        ###fake_items.append({'title': fake_title, 'local_trend':trendNew,'image': image})
+        ### fake_items.append({'title': fake_title, 'local_trend':trendNew,'image': image})
         fake_items.append({'title': fake_word,'image': image})
 
     return fake_items
