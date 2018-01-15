@@ -21,7 +21,7 @@ body {
 }
 .contentWrap {
   display: inline-grid;
-  grid-template-columns: 25% 52% 23%;
+  grid-template-columns: 50% 50%;
   grid-template-rows: 75% auto;
 }
 .contentWrapEntitya {
