@@ -21,10 +21,10 @@ body {
 }
 .contentWrap {
   display: inline-grid;
-  grid-template-columns: 50% 50%;
+  grid-template-columns: 33% auto;
   grid-template-rows: 75% auto;
 }
-.contentWrapEntitya {
+.contentWrapEntity {
 }
 
 header {
@@ -52,6 +52,8 @@ h1 {
 }
 
 .headerMenu {
+  background-color: white;
+
   position: fixed;
   z-index: 999;
   display: list-item;
