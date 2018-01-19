@@ -25,6 +25,7 @@ body {
   grid-template-rows: 75% auto;
 }
 .contentWrapEntity {
+
 }
 
 header {
@@ -56,7 +57,7 @@ h1 {
 
   position: fixed;
   z-index: 999;
-  display: list-item;
+  display: inline-block;
 
   padding: 25px;
 }
@@ -133,6 +134,8 @@ ol {
 
   list-style-type: decimal;
   list-style-position: outside;
+
+  display: block;
 }
 .trendListContent,
 ol,
