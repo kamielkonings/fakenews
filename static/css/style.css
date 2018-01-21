@@ -92,6 +92,10 @@ a:hover {
 }
 
 /* ---- Articles only ---- */
+.contentWrap{
+  top: 25%;
+}
+
 
 .listContainer {
   margin: 15px;
@@ -218,7 +222,7 @@ span {
 
   font-family: Rockwell-Bold;
 
-  word-spacing: 12px;
+  word-spacing: 3px;
 }
 
 .normal {
@@ -226,7 +230,7 @@ span {
 
   font-family: PtSans-Italic;
 
-  word-spacing: 12px;
+  word-spacing: 3px;
 }
 
 .plotArticle {
