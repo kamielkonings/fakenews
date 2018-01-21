@@ -208,7 +208,9 @@ img {
 
 span {
   font-size: 50px;
-  font-kerning: 4em;
+  font-kerning: normal;
+
+  word-spacing: 5px;
 }
 
 .special {
