@@ -28,14 +28,13 @@
           <img src="\static\css\image\Header_Logo.svg" alt="TrendFeed-Headliner">
         </div>
 
-        <div class="headerFixed" id="myHeader">
-          <div id="headerMobile">
+      <div class="headerFixed" id="myHeader">
+        
           <div class="headerBanner">
             <img src="\static\css\image\Animation_Hand_Left.gif" alt="Hand-animation-left" style="width:34%;">
             <h1>Feeding your daily news.</h1>
-            <img src="\static\css\image\Animation_Hand_Right.gif" alt="Hand-animation-right" style="width:34%;">
+            <img src="\static\css\image\Animation_Hand_Right.gif" alt="Hand-animation-right" style="width:35%;">
           </div>
-        </div>
 
         <div class="headerMenu">
           <a href="javascript:window.location.reload();">#Refresh</a>
@@ -43,7 +42,7 @@
           <a href="#aboutList">#About</a>
           <a href="#followList">#Follow</a>
         </div>
-    </div>
+      </div>
     </header>
   </div>
 
@@ -151,14 +150,14 @@
   <script>
     window.onscroll = function() {myFunction()};
     
-    var header = document.getElementById("myHeader");
-    var sticky = header.offsetTop;
+    var myheader = document.getElementById("myHeader");
+    var sticky = myheader.offsetTop;
     
     function myFunction() {
       if (window.pageYOffset >= sticky) {
-        header.classList.add("sticky");
+        myheader.classList.add("sticky");
       } else {
-        header.classList.remove("sticky");
+        myheader.classList.remove("sticky");
       }
     }
     </script>

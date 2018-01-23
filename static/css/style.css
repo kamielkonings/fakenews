@@ -52,6 +52,12 @@ h1 {
   background-color: white;
 
   z-index: 999;
+
+margin-left: 5px;
+margin-right: 5px;
+
+size: 100%;
+align-content: center;
 }
 .headerBanner {
   padding-left: 5px;
@@ -118,12 +124,12 @@ a:hover {
 }
 
 .sticky + .contentWrap {
-  padding-top: auto;
+  top: 100px;
 }
 
 /* ---- full content ---- */
 .contentWrap{
-  padding-top: auto;
+  padding-top: 10px;
 }
 
 
@@ -280,7 +286,8 @@ span {
 }
 
 .plotArticle {
-  width: 100%;
+  width: 98%;
+
 }
 article {
   padding-bottom: 25px;
@@ -303,7 +310,7 @@ footer {
 
   size: 100%
 }
-acknowledged{
+acknowledged, h4{
   color: #6222d1;
 
   font-size: 12px;
