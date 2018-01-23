@@ -64,6 +64,13 @@ h1 {
 
   align-items: center;
 }
+.headerBanner{
+  padding-left: 2px;
+  padding-right: 2px;
+
+  margin-left: 2px;
+  margin-right: 2px;
+}
 
 .headerMenu {
   background-color: white;
@@ -102,6 +109,8 @@ a:hover {
     1px 1px 0 #6222d1;
 }
 
+/* ---- sticky header ---- */
+
 .sticky {
   position: fixed;
   top: 0;
@@ -109,7 +118,7 @@ a:hover {
 }
 
 .sticky + .contentWrap {
-  padding-top: 60%;
+  padding-top: auto;
 }
 
 /* ---- full content ---- */
@@ -267,7 +276,7 @@ span {
 
   font-family: PtSans-Italic;
 
-  word-spacing: 40px;
+  word-spacing: 25px;
 }
 
 .plotArticle {
@@ -294,7 +303,7 @@ footer {
 
   size: 100%
 }
-footer, h4{
+acknowledged{
   color: #6222d1;
 
   font-size: 12px;

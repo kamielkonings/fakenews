@@ -6,8 +6,8 @@
     <description>Nieuws</description>
     <language>nl-BE</language>
     <copyright>de Persgroep Publishing NV</copyright>
-    <pubDate>Tue, 23 Jan 2018 14:36:35 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Jan 2018 14:36:35 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Jan 2018 14:46:01 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Jan 2018 14:46:01 GMT</lastBuildDate>
     <image>
       <title>De Morgen</title>
       <url>https://www.demorgen.be/static/img/Logo_DeMorgen_RSS.png?r=3.70.2</url>
@@ -15,6 +15,26 @@
       <width>-1</width>
       <height>-1</height>
     </image>
+    <item>
+      <title>Belgische kmo's in goede gezondheid</title>
+      <link>https://www.demorgen.be/economie/belgische-kmo-s-in-goede-gezondheid-b2bda3a1/</link>
+      <description>&lt;span&gt;De kleine en middelgrote ondernemingen (kmo's) in België verkeren in goede financiële gezondheid. Wel zit nog heel wat geld in de bedrijven dat niet rendeert en nog kan worden geïnvesteerd.&amp;nbsp;&lt;/span&gt;</description>
+      <content:encoded>https://images0.persgroep.net/rcs/F_BFjSHn8T9ZlIA1abJEmC1AOgE/diocontent/115934350/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
+      <pubDate>Tue, 23 Jan 2018 14:43:16 GMT</pubDate>
+      <guid>https://www.demorgen.be/economie/belgische-kmo-s-in-goede-gezondheid-b2bda3a1/</guid>
+      <dc:creator>Lieven Desmet</dc:creator>
+      <g-custom:is-plus type="boolean">false</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Ondanks druk EU en VS: schending van mensenrechten in Thaise visserij houdt aan</title>
+      <link>https://www.demorgen.be/buitenland/ondanks-druk-eu-en-vs-schending-van-mensenrechten-in-thaise-visserij-houdt-aan-b4e0b9de/</link>
+      <description>&lt;span&gt;Dwangarbeid en andere mensenrechtenschendingen komen nog steeds op grote schaal voor bij Thaise vissersvloten, ondanks de toezegging van de overheid om in te grijpen. Dat constateert mensenrechtenorganisatie Human Rights Watch (HRW).&lt;/span&gt;</description>
+      <content:encoded>https://images0.persgroep.net/rcs/8CYGzZ0KHqiBU3T3vApsUvGa5uE/diocontent/35845999/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
+      <pubDate>Tue, 23 Jan 2018 14:43:02 GMT</pubDate>
+      <guid>https://www.demorgen.be/buitenland/ondanks-druk-eu-en-vs-schending-van-mensenrechten-in-thaise-visserij-houdt-aan-b4e0b9de/</guid>
+      <dc:creator>Redactie</dc:creator>
+      <g-custom:is-plus type="boolean">false</g-custom:is-plus>
+    </item>
     <item>
       <title>Plan van 40 miljoen euro moet Groot Barrièrerif redden</title>
       <link>https://www.demorgen.be/wetenschap/plan-van-40-miljoen-euro-moet-groot-barriererif-redden-be6a4530/</link>
@@ -57,7 +77,7 @@
     <item>
       <title>Oscarnominaties bekend: 'Three Billboards' en 'The Shape of Water' zijn favoriet</title>
       <link>https://www.demorgen.be/film/oscarnominaties-bekend-three-billboards-en-the-shape-of-water-zijn-favoriet-b6b9802e/</link>
-      <description>&lt;i&gt;Three Billboards Outside Ebbing, Missouri &lt;/i&gt;en &lt;i&gt;The Shape of Water &lt;/i&gt;zijn de grote favorieten voor de 90ste uitreiking van de Academy Awards, beter bekend als de Oscars. Guillermo Del Toro's &lt;i&gt;The Shape of Water &lt;/i&gt;werd maar liefst 13 keer genomineerd, al lijken de belangrijkste kaarten in het voordeel van &lt;i&gt;Three Billboards &lt;/i&gt;(6 nominaties) te liggen.</description>
+      <description>&lt;i&gt;Three Billboards Outside Ebbing, Missouri &lt;/i&gt;en &lt;i&gt;The Shape of Water &lt;/i&gt;zijn de grote favorieten voor de 90ste uitreiking van de Academy Awards, beter bekend als de Oscars. Guillermo Del Toro's &lt;i&gt;The Shape of Water &lt;/i&gt;werd maar liefst 13 keer genomineerd, al lijken de belangrijkste kaarten in het voordeel van &lt;i&gt;Three Billboards &lt;/i&gt;(7 nominaties) te liggen.</description>
       <content:encoded>https://images0.persgroep.net/rcs/yZdHEttagti1_s6EUrEYU7bIQdA/diocontent/117825831/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
       <pubDate>Tue, 23 Jan 2018 13:59:54 GMT</pubDate>
       <guid>https://www.demorgen.be/film/oscarnominaties-bekend-three-billboards-en-the-shape-of-water-zijn-favoriet-b6b9802e/</guid>
@@ -532,11 +552,11 @@
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
-      <title>Terug naar de wortels van karton</title>
-      <link>https://www.demorgen.be/plus/terug-naar-de-wortels-van-karton-b-1516668002121/</link>
-      <description>Met zijn project Labo, dat bordkartonnen creaties koppelt aan games op de Switch-spelconsole, maakt Nintendo een merkwaardige cirkel rond: meer dan 100 jaar geleden begon de Japanse spelletjesgigant als fabrikant van speelkaarten. Een tijdperk dat nog altijd lichtjes het bedrijf zijn spelfilosofie beïnvloedt.</description>
+      <title>Europese Investeringsbank voor rechter na zelfdoding stagiaire</title>
+      <link>https://www.demorgen.be/plus/europese-investeringsbank-voor-rechter-na-zelfdoding-stagiaire-b-1516668001751/</link>
+      <description>De familie van een Roemeense stagiaire die zich eind 2013 van het leven benam in de gebouwen van de Europese investeringsbank (EIB) stapt in Luxemburg naar de rechter met een klacht wegens onopzettelijke doding.</description>
       <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/terug-naar-de-wortels-van-karton-b-1516668002121/</guid>
+      <guid>https://www.demorgen.be/plus/europese-investeringsbank-voor-rechter-na-zelfdoding-stagiaire-b-1516668001751/</guid>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -548,14 +568,6 @@
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
-      <title>Brief</title>
-      <link>https://www.demorgen.be/plus/brief-b-1516668002204/</link>
-      <description />
-      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/brief-b-1516668002204/</guid>
-      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
       <title>Lampjes dashboard amper gekend</title>
       <link>https://www.demorgen.be/plus/lampjes-dashboard-amper-gekend-b-1516668001824/</link>
       <description />
@@ -564,19 +576,11 @@
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
-      <title>DRIEE HAANTJES op een te klein erg</title>
-      <link>https://www.demorgen.be/plus/driee-haantjes-op-een-te-klein-erg-b-1516668003281/</link>
-      <description>'Als we nu eens allemaal elkaars nieuwe stadions gunnen! Stop de onderkruiperij!' Met die tweet legde toekomstig Anderlecht-voorzitter Marc Coucke de vete tussen Ghelamco-baas Paul Gheysens en Bart Verhaeghe bloot. De grote verliezer dreigt het Belgisch voetbal te worden.</description>
+      <title>Terug naar de wortels van karton</title>
+      <link>https://www.demorgen.be/plus/terug-naar-de-wortels-van-karton-b-1516668002121/</link>
+      <description>Met zijn project Labo, dat bordkartonnen creaties koppelt aan games op de Switch-spelconsole, maakt Nintendo een merkwaardige cirkel rond: meer dan 100 jaar geleden begon de Japanse spelletjesgigant als fabrikant van speelkaarten. Een tijdperk dat nog altijd lichtjes het bedrijf zijn spelfilosofie beïnvloedt.</description>
       <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/driee-haantjes-op-een-te-klein-erg-b-1516668003281/</guid>
-      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
-      <title>De Bruyne tekent contract van zijn leven</title>
-      <link>https://www.demorgen.be/plus/de-bruyne-tekent-contract-van-zijn-leven-b-1516668002607/</link>
-      <description />
-      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/de-bruyne-tekent-contract-van-zijn-leven-b-1516668002607/</guid>
+      <guid>https://www.demorgen.be/plus/terug-naar-de-wortels-van-karton-b-1516668002121/</guid>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -585,6 +589,14 @@
       <description />
       <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
       <guid>https://www.demorgen.be/plus/-ook-joris-ide-ten-strijde-tegen-stadion-club-brugge-b-1516668002407/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Brief</title>
+      <link>https://www.demorgen.be/plus/brief-b-1516668002204/</link>
+      <description />
+      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/brief-b-1516668002204/</guid>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -612,11 +624,19 @@
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
-      <title>Winkel van de toekomst is open</title>
-      <link>https://www.demorgen.be/plus/winkel-van-de-toekomst-is-open-b-1516668003654/</link>
+      <title>DRIEE HAANTJES op een te klein erg</title>
+      <link>https://www.demorgen.be/plus/driee-haantjes-op-een-te-klein-erg-b-1516668003281/</link>
+      <description>'Als we nu eens allemaal elkaars nieuwe stadions gunnen! Stop de onderkruiperij!' Met die tweet legde toekomstig Anderlecht-voorzitter Marc Coucke de vete tussen Ghelamco-baas Paul Gheysens en Bart Verhaeghe bloot. De grote verliezer dreigt het Belgisch voetbal te worden.</description>
+      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/driee-haantjes-op-een-te-klein-erg-b-1516668003281/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>De Bruyne tekent contract van zijn leven</title>
+      <link>https://www.demorgen.be/plus/de-bruyne-tekent-contract-van-zijn-leven-b-1516668002607/</link>
       <description />
       <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/winkel-van-de-toekomst-is-open-b-1516668003654/</guid>
+      <guid>https://www.demorgen.be/plus/de-bruyne-tekent-contract-van-zijn-leven-b-1516668002607/</guid>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -636,11 +656,11 @@
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
-      <title>Europese Investeringsbank voor rechter na zelfdoding stagiaire</title>
-      <link>https://www.demorgen.be/plus/europese-investeringsbank-voor-rechter-na-zelfdoding-stagiaire-b-1516668001751/</link>
-      <description>De familie van een Roemeense stagiaire die zich eind 2013 van het leven benam in de gebouwen van de Europese investeringsbank (EIB) stapt in Luxemburg naar de rechter met een klacht wegens onopzettelijke doding.</description>
+      <title>Winkel van de toekomst is open</title>
+      <link>https://www.demorgen.be/plus/winkel-van-de-toekomst-is-open-b-1516668003654/</link>
+      <description />
       <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/europese-investeringsbank-voor-rechter-na-zelfdoding-stagiaire-b-1516668001751/</guid>
+      <guid>https://www.demorgen.be/plus/winkel-van-de-toekomst-is-open-b-1516668003654/</guid>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -660,6 +680,14 @@
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
+      <title>Djokovic botst op lookalike</title>
+      <link>https://www.demorgen.be/plus/djokovic-botst-op-lookalike-b-1516668002296/</link>
+      <description>Twee weken geleden werkten Hyeon Chung en Tennys Sandgren een anoniem duel af in Auckland. Morgen treffen de Koreaan en de Amerikaan elkaar in de kwartfinales van de Australian Open. Chung versloeg zijn jeugdidool Novak Djokovic en zette het Koreaanse tennis definitief op de kaart.</description>
+      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/djokovic-botst-op-lookalike-b-1516668002296/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
       <title>Indiana Jones op de redactie</title>
       <link>https://www.demorgen.be/plus/indiana-jones-op-de-redactie-b-1516668001989/</link>
       <description>Een stoffige krantenredactie wordt de spannendste plek ter wereld in het brandend actuele The Post. Met sprekend gemak puurt Steven Spielberg een razend entertainende thriller uit potentieel kurkdroge materie.</description>
@@ -676,11 +704,11 @@
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
-      <title>Dilemma voor Courtois: Real, PSG of Chelsea?</title>
-      <link>https://www.demorgen.be/plus/dilemma-voor-courtois-real-psg-of-chelsea-b-1516668001779/</link>
+      <title>Wat is de straalstroom?</title>
+      <link>https://www.demorgen.be/plus/wat-is-de-straalstroom-b-1516668002319/</link>
       <description />
       <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/dilemma-voor-courtois-real-psg-of-chelsea-b-1516668001779/</guid>
+      <guid>https://www.demorgen.be/plus/wat-is-de-straalstroom-b-1516668002319/</guid>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -692,11 +720,11 @@
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
-      <title>Djokovic botst op lookalike</title>
-      <link>https://www.demorgen.be/plus/djokovic-botst-op-lookalike-b-1516668002296/</link>
-      <description>Twee weken geleden werkten Hyeon Chung en Tennys Sandgren een anoniem duel af in Auckland. Morgen treffen de Koreaan en de Amerikaan elkaar in de kwartfinales van de Australian Open. Chung versloeg zijn jeugdidool Novak Djokovic en zette het Koreaanse tennis definitief op de kaart.</description>
+      <title>Brussel is Calais niet</title>
+      <link>https://www.demorgen.be/plus/brussel-is-calais-niet-b-1516668002853/</link>
+      <description>Johan Depoortere is voormalig VRT-journalist. Hij nam een tiental keer vluchtelingen op voor één of meerdere nachten.</description>
       <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/djokovic-botst-op-lookalike-b-1516668002296/</guid>
+      <guid>https://www.demorgen.be/plus/brussel-is-calais-niet-b-1516668002853/</guid>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -708,11 +736,11 @@
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
-      <title>Wat is de straalstroom?</title>
-      <link>https://www.demorgen.be/plus/wat-is-de-straalstroom-b-1516668002319/</link>
+      <title>Bart De Wever klaagt Antwerpse 'apartheid' aan</title>
+      <link>https://www.demorgen.be/plus/bart-de-wever-klaagt-antwerpse-apartheid-aan-b-1516668002876/</link>
       <description />
       <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/wat-is-de-straalstroom-b-1516668002319/</guid>
+      <guid>https://www.demorgen.be/plus/bart-de-wever-klaagt-antwerpse-apartheid-aan-b-1516668002876/</guid>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -740,46 +768,6 @@
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
-      <title>Brussel is Calais niet</title>
-      <link>https://www.demorgen.be/plus/brussel-is-calais-niet-b-1516668002853/</link>
-      <description>Johan Depoortere is voormalig VRT-journalist. Hij nam een tiental keer vluchtelingen op voor één of meerdere nachten.</description>
-      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/brussel-is-calais-niet-b-1516668002853/</guid>
-      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
-      <title>Het taboe van sociologische apartheid</title>
-      <link>https://www.demorgen.be/plus/het-taboe-van-sociologische-apartheid-b-1516668003043/</link>
-      <description>Stijn Rottiers is socioloog en filosoof verbonden aan de UC Leuven-Limburg.</description>
-      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/het-taboe-van-sociologische-apartheid-b-1516668003043/</guid>
-      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
-      <title>Cryptomunten krijgen opnieuw klappen</title>
-      <link>https://www.demorgen.be/plus/cryptomunten-krijgen-opnieuw-klappen-b-1516668002989/</link>
-      <description />
-      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/cryptomunten-krijgen-opnieuw-klappen-b-1516668002989/</guid>
-      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
-      <title>Bart De Wever klaagt Antwerpse 'apartheid' aan</title>
-      <link>https://www.demorgen.be/plus/bart-de-wever-klaagt-antwerpse-apartheid-aan-b-1516668002876/</link>
-      <description />
-      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/bart-de-wever-klaagt-antwerpse-apartheid-aan-b-1516668002876/</guid>
-      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
-      <title>Belgische Europese zetels straks bekend</title>
-      <link>https://www.demorgen.be/plus/belgische-europese-zetels-straks-bekend-b-1516668001716/</link>
-      <description />
-      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/belgische-europese-zetels-straks-bekend-b-1516668001716/</guid>
-      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
       <title>Schapen en reeën eerst</title>
       <link>https://www.demorgen.be/plus/schapen-en-reeen-eerst-b-1516668003309/</link>
       <description>De wolf Naya heeft voor het eerst toegeslagen in Vlaanderen, zo lijken de gps-gegevens te bevestigen. Ze doodde twee schapen in de Antwerpse Kempen. Wat moeten we zoal weten over het eenzaam dolende dier?</description>
@@ -796,11 +784,27 @@
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
+      <title>Het taboe van sociologische apartheid</title>
+      <link>https://www.demorgen.be/plus/het-taboe-van-sociologische-apartheid-b-1516668003043/</link>
+      <description>Stijn Rottiers is socioloog en filosoof verbonden aan de UC Leuven-Limburg.</description>
+      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/het-taboe-van-sociologische-apartheid-b-1516668003043/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
       <title>Er blijkt niets mis met wijkgezondheidscentra</title>
       <link>https://www.demorgen.be/plus/er-blijkt-niets-mis-met-wijkgezondheidscentra-b-1516668003233/</link>
       <description>Er mogen weer nieuwe wijkgezondheidscentra (WGC) komen. Het moratorium is opgeheven nu de audit op vraag van minister van Volksgezondheid Maggie De Block (Open Vld) is voorgesteld. 'Net zoals eerdere studies, leert deze audit dat het systeem goed werkt.'</description>
       <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
       <guid>https://www.demorgen.be/plus/er-blijkt-niets-mis-met-wijkgezondheidscentra-b-1516668003233/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Cryptomunten krijgen opnieuw klappen</title>
+      <link>https://www.demorgen.be/plus/cryptomunten-krijgen-opnieuw-klappen-b-1516668002989/</link>
+      <description />
+      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/cryptomunten-krijgen-opnieuw-klappen-b-1516668002989/</guid>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -817,6 +821,14 @@
       <description />
       <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
       <guid>https://www.demorgen.be/plus/eu-schrapt-in-zwarte-lijst-met-belastingparadijzen-b-1516668003336/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Abbas vraagt Europa om Palestina te erkennen</title>
+      <link>https://www.demorgen.be/plus/abbas-vraagt-europa-om-palestina-te-erkennen-b-1516668003576/</link>
+      <description />
+      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/abbas-vraagt-europa-om-palestina-te-erkennen-b-1516668003576/</guid>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -852,19 +864,27 @@
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
-      <title>'Democratie? Ze vinden mij een dictator'</title>
-      <link>https://www.demorgen.be/plus/-democratie-ze-vinden-mij-een-dictator-b-1516668003703/</link>
-      <description>Achter de zwarte deur van Rooms / Ruins, de nieuwe van Flying Horseman, schuilt een paradijs dat zowel groots en intiem, warm en koud, lichtrijk en obscuur is. We gingen op visite bij Bert Dockx, de architect van de Antwerpse band.</description>
+      <title>Dilemma voor Courtois: Real, PSG of Chelsea?</title>
+      <link>https://www.demorgen.be/plus/dilemma-voor-courtois-real-psg-of-chelsea-b-1516668001779/</link>
+      <description />
       <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/-democratie-ze-vinden-mij-een-dictator-b-1516668003703/</guid>
+      <guid>https://www.demorgen.be/plus/dilemma-voor-courtois-real-psg-of-chelsea-b-1516668001779/</guid>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
-      <title>'Humelgem wordt het nieuwe Doel'</title>
-      <link>https://www.demorgen.be/plus/-humelgem-wordt-het-nieuwe-doel-b-1516668003820/</link>
-      <description>Een muur van 18 meter hoog en 4 kilometer lang: dat wil Brussels Airport bij het dorpje Humelgem bouwen wanneer de politiek groen licht geeft voor de maximale plannen voor de uitbreiding van een piste. 22 woningen zijn met onteigening bedreigd. 'Dat ze mijn huis maar platgooien.'</description>
+      <title>Belgische Europese zetels straks bekend</title>
+      <link>https://www.demorgen.be/plus/belgische-europese-zetels-straks-bekend-b-1516668001716/</link>
+      <description />
       <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/-humelgem-wordt-het-nieuwe-doel-b-1516668003820/</guid>
+      <guid>https://www.demorgen.be/plus/belgische-europese-zetels-straks-bekend-b-1516668001716/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>29 inbreuken op reglementering speelgoed</title>
+      <link>https://www.demorgen.be/plus/29-inbreuken-op-reglementering-speelgoed-b-1516668003606/</link>
+      <description />
+      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/29-inbreuken-op-reglementering-speelgoed-b-1516668003606/</guid>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -876,11 +896,11 @@
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
-      <title>Abbas vraagt Europa om Palestina te erkennen</title>
-      <link>https://www.demorgen.be/plus/abbas-vraagt-europa-om-palestina-te-erkennen-b-1516668003576/</link>
-      <description />
+      <title>'Democratie? Ze vinden mij een dictator'</title>
+      <link>https://www.demorgen.be/plus/-democratie-ze-vinden-mij-een-dictator-b-1516668003703/</link>
+      <description>Achter de zwarte deur van Rooms / Ruins, de nieuwe van Flying Horseman, schuilt een paradijs dat zowel groots en intiem, warm en koud, lichtrijk en obscuur is. We gingen op visite bij Bert Dockx, de architect van de Antwerpse band.</description>
       <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/abbas-vraagt-europa-om-palestina-te-erkennen-b-1516668003576/</guid>
+      <guid>https://www.demorgen.be/plus/-democratie-ze-vinden-mij-een-dictator-b-1516668003703/</guid>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -900,11 +920,75 @@
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
-      <title>29 inbreuken op reglementering speelgoed</title>
-      <link>https://www.demorgen.be/plus/29-inbreuken-op-reglementering-speelgoed-b-1516668003606/</link>
+      <title>'Humelgem wordt het nieuwe Doel'</title>
+      <link>https://www.demorgen.be/plus/-humelgem-wordt-het-nieuwe-doel-b-1516668003820/</link>
+      <description>Een muur van 18 meter hoog en 4 kilometer lang: dat wil Brussels Airport bij het dorpje Humelgem bouwen wanneer de politiek groen licht geeft voor de maximale plannen voor de uitbreiding van een piste. 22 woningen zijn met onteigening bedreigd. 'Dat ze mijn huis maar platgooien.'</description>
+      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/-humelgem-wordt-het-nieuwe-doel-b-1516668003820/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Davos in de ban van de autocraten</title>
+      <link>https://www.demorgen.be/plus/davos-in-de-ban-van-de-autocraten-b-1516668003122/</link>
+      <description>Het Zwitserse bergdorp Davos is van vandaag tot vrijdag weer even het centrum van de wereld. Toppolitici, zakenlui en wetenschappers bespreken er de staat van de wereld, op een moment dat overal op aarde politici de grenzen van de democratie aftasten.</description>
+      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/davos-in-de-ban-van-de-autocraten-b-1516668003122/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>'Dit was een les in humaniteit'</title>
+      <link>https://www.demorgen.be/plus/-dit-was-een-les-in-humaniteit-b-1516668003182/</link>
+      <description>Met meer dan 2.000 waren ze. De mensenketting rond het Maximiliaanpark zondagavond was een boodschap van hoop, zeggen de organisatoren. 'Hier zijn mensen in nood. Die moeten we helpen.'</description>
+      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/-dit-was-een-les-in-humaniteit-b-1516668003182/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Scoort Jakob Verbruggen ook met 'The Alienist'?</title>
+      <link>https://www.demorgen.be/plus/scoort-jakob-verbruggen-ook-met-the-alienist-b-1516668003155/</link>
+      <description>In de VS is de nieuwe thrillerreeks The Alienist in première gegaan - een nieuw hoofdstuk in het internationale succesverhaal van de Antwerpenaar Jakob Verbruggen, die drie afleveringen regisseerde. Wat moet u weten over de reeks, en moet u nu al aftellen naar de Netflix-release?</description>
+      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/scoort-jakob-verbruggen-ook-met-the-alienist-b-1516668003155/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Premies voor Rode Duivels zijn te laag</title>
+      <link>https://www.demorgen.be/plus/premies-voor-rode-duivels-zijn-te-laag-b-1516668003012/</link>
+      <description>Paul De Grauwe is professor aan de London School of Economics. Zijn column verschijnt wekelijks.</description>
+      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/premies-voor-rode-duivels-zijn-te-laag-b-1516668003012/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Belgische loonhandicap met buurlanden bijna weggewerkt</title>
+      <link>https://www.demorgen.be/plus/belgische-loonhandicap-met-buurlanden-bijna-weggewerkt-b-1516668003068/</link>
+      <description>De loonhandicap die België sinds 1996 heeft opgebouwd tegenover de buurlanden is bijna weggewerkt. Dat blijkt uit het nieuwste verslag van de Centrale Raad voor het Bedrijfsleven (CRB).</description>
+      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/belgische-loonhandicap-met-buurlanden-bijna-weggewerkt-b-1516668003068/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Terreurniveau omlaag, maar militairen nog niet weg</title>
+      <link>https://www.demorgen.be/plus/terreurniveau-omlaag-maar-militairen-nog-niet-weg-b-1516668003475/</link>
+      <description>Voor het eerst in twee jaar daalt het terreurniveau in ons land van drie naar twee. Dat heeft de Nationale Veiligheidsraad beslist. In luchthavens, stations en andere doelwitten blijven de militairen op post.</description>
+      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/terreurniveau-omlaag-maar-militairen-nog-niet-weg-b-1516668003475/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Extreme ongelijkheid wordt alleen maar groter</title>
+      <link>https://www.demorgen.be/plus/extreme-ongelijkheid-wordt-alleen-maar-groter-b-1516668003552/</link>
       <description />
       <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/29-inbreuken-op-reglementering-speelgoed-b-1516668003606/</guid>
+      <guid>https://www.demorgen.be/plus/extreme-ongelijkheid-wordt-alleen-maar-groter-b-1516668003552/</guid>
+      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
+    </item>
+    <item>
+      <title>Rusland nodigt Koerden uit voor gesprekken</title>
+      <link>https://www.demorgen.be/plus/rusland-nodigt-koerden-uit-voor-gesprekken-b-1516668003502/</link>
+      <description />
+      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
+      <guid>https://www.demorgen.be/plus/rusland-nodigt-koerden-uit-voor-gesprekken-b-1516668003502/</guid>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -1025,70 +1109,6 @@
       <description />
       <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
       <guid>https://www.demorgen.be/plus/franciscus-verontschuldigt-zich-na-kritiek-b-1516668001658/</guid>
-      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
-      <title>Davos in de ban van de autocraten</title>
-      <link>https://www.demorgen.be/plus/davos-in-de-ban-van-de-autocraten-b-1516668003122/</link>
-      <description>Het Zwitserse bergdorp Davos is van vandaag tot vrijdag weer even het centrum van de wereld. Toppolitici, zakenlui en wetenschappers bespreken er de staat van de wereld, op een moment dat overal op aarde politici de grenzen van de democratie aftasten.</description>
-      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/davos-in-de-ban-van-de-autocraten-b-1516668003122/</guid>
-      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
-      <title>'Dit was een les in humaniteit'</title>
-      <link>https://www.demorgen.be/plus/-dit-was-een-les-in-humaniteit-b-1516668003182/</link>
-      <description>Met meer dan 2.000 waren ze. De mensenketting rond het Maximiliaanpark zondagavond was een boodschap van hoop, zeggen de organisatoren. 'Hier zijn mensen in nood. Die moeten we helpen.'</description>
-      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/-dit-was-een-les-in-humaniteit-b-1516668003182/</guid>
-      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
-      <title>Scoort Jakob Verbruggen ook met 'The Alienist'?</title>
-      <link>https://www.demorgen.be/plus/scoort-jakob-verbruggen-ook-met-the-alienist-b-1516668003155/</link>
-      <description>In de VS is de nieuwe thrillerreeks The Alienist in première gegaan - een nieuw hoofdstuk in het internationale succesverhaal van de Antwerpenaar Jakob Verbruggen, die drie afleveringen regisseerde. Wat moet u weten over de reeks, en moet u nu al aftellen naar de Netflix-release?</description>
-      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/scoort-jakob-verbruggen-ook-met-the-alienist-b-1516668003155/</guid>
-      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
-      <title>Premies voor Rode Duivels zijn te laag</title>
-      <link>https://www.demorgen.be/plus/premies-voor-rode-duivels-zijn-te-laag-b-1516668003012/</link>
-      <description>Paul De Grauwe is professor aan de London School of Economics. Zijn column verschijnt wekelijks.</description>
-      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/premies-voor-rode-duivels-zijn-te-laag-b-1516668003012/</guid>
-      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
-      <title>Belgische loonhandicap met buurlanden bijna weggewerkt</title>
-      <link>https://www.demorgen.be/plus/belgische-loonhandicap-met-buurlanden-bijna-weggewerkt-b-1516668003068/</link>
-      <description>De loonhandicap die België sinds 1996 heeft opgebouwd tegenover de buurlanden is bijna weggewerkt. Dat blijkt uit het nieuwste verslag van de Centrale Raad voor het Bedrijfsleven (CRB).</description>
-      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/belgische-loonhandicap-met-buurlanden-bijna-weggewerkt-b-1516668003068/</guid>
-      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
-      <title>Terreurniveau omlaag, maar militairen nog niet weg</title>
-      <link>https://www.demorgen.be/plus/terreurniveau-omlaag-maar-militairen-nog-niet-weg-b-1516668003475/</link>
-      <description>Voor het eerst in twee jaar daalt het terreurniveau in ons land van drie naar twee. Dat heeft de Nationale Veiligheidsraad beslist. In luchthavens, stations en andere doelwitten blijven de militairen op post.</description>
-      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/terreurniveau-omlaag-maar-militairen-nog-niet-weg-b-1516668003475/</guid>
-      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
-      <title>Extreme ongelijkheid wordt alleen maar groter</title>
-      <link>https://www.demorgen.be/plus/extreme-ongelijkheid-wordt-alleen-maar-groter-b-1516668003552/</link>
-      <description />
-      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/extreme-ongelijkheid-wordt-alleen-maar-groter-b-1516668003552/</guid>
-      <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
-      <title>Rusland nodigt Koerden uit voor gesprekken</title>
-      <link>https://www.demorgen.be/plus/rusland-nodigt-koerden-uit-voor-gesprekken-b-1516668003502/</link>
-      <description />
-      <pubDate>Mon, 22 Jan 2018 23:00:00 GMT</pubDate>
-      <guid>https://www.demorgen.be/plus/rusland-nodigt-koerden-uit-voor-gesprekken-b-1516668003502/</guid>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
     </item>
     <item>
@@ -1479,36 +1499,6 @@
       <guid>https://www.demorgen.be/muziek/in-de-schrijfkamer-van-flying-horseman-democratie-de-anderen-vinden-mij-een-dictator-b4607b536/</guid>
       <dc:creator>Elmo Lê van</dc:creator>
       <g-custom:is-plus type="boolean">true</g-custom:is-plus>
-    </item>
-    <item>
-      <title>Britse partij UKIP dreigt uiteen te vallen</title>
-      <link>https://www.demorgen.be/buitenland/britse-partij-ukip-dreigt-uiteen-te-vallen-bc90cf39/</link>
-      <description>&lt;span&gt;De Britse populistische partij UKIP dreigt uit elkaar te vallen, omdat partijleider Henry Bolton weigert op te stappen. Zes figuren uit de top van de partij zijn uit protest opgestapt.&lt;/span&gt;</description>
-      <content:encoded>https://images0.persgroep.net/rcs/WNEFZe10vMYw876qhkRQ_QdE6pY/diocontent/117791330/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
-      <pubDate>Mon, 22 Jan 2018 14:41:09 GMT</pubDate>
-      <guid>https://www.demorgen.be/buitenland/britse-partij-ukip-dreigt-uiteen-te-vallen-bc90cf39/</guid>
-      <dc:creator>Redactie</dc:creator>
-      <g-custom:is-plus type="boolean">false</g-custom:is-plus>
-    </item>
-    <item>
-      <title>"Ook Joris Ide trekt ten strijde tegen stadion Club Brugge"</title>
-      <link>https://www.demorgen.be/sport/-ook-joris-ide-trekt-ten-strijde-tegen-stadion-club-brugge-b8a7f6d3/</link>
-      <description>Niet alleen Ghelamco-baas Paul Gheysens, maar ook staalgigant Joris Ide heeft verzet aangetekend bij de Raad van State tegen het geplande stadion van Club Brugge. Dat meldt&lt;i&gt; De Tijd &lt;/i&gt;op zijn website.</description>
-      <content:encoded>https://images0.persgroep.net/rcs/USJsnFnKvBDxpf_PkFc0WeuJBmI/diocontent/111610998/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
-      <pubDate>Mon, 22 Jan 2018 14:38:19 GMT</pubDate>
-      <guid>https://www.demorgen.be/sport/-ook-joris-ide-trekt-ten-strijde-tegen-stadion-club-brugge-b8a7f6d3/</guid>
-      <dc:creator>Redactie</dc:creator>
-      <g-custom:is-plus type="boolean">false</g-custom:is-plus>
-    </item>
-    <item>
-      <title>Rusland nodigt Koerden uit voor Syrische vredesgesprekken</title>
-      <link>https://www.demorgen.be/buitenland/rusland-nodigt-koerden-uit-voor-syrische-vredesgesprekken-b1281def/</link>
-      <description>Rusland nodigt Koerdische vertegenwoordigers uit voor de Syrische vredesgesprekken die volgende week plaatsvinden in Sotsji. Dat heeft de Russische minister van Buitenlandse Zaken Sergej Lavrov gezegd.</description>
-      <content:encoded>https://images0.persgroep.net/rcs/V_nPn3u0ToD9AhSqkJA9XyeAh2I/diocontent/117780076/_fitwidth/642/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.90</content:encoded>
-      <pubDate>Mon, 22 Jan 2018 14:37:51 GMT</pubDate>
-      <guid>https://www.demorgen.be/buitenland/rusland-nodigt-koerden-uit-voor-syrische-vredesgesprekken-b1281def/</guid>
-      <dc:creator>Redactie</dc:creator>
-      <g-custom:is-plus type="boolean">false</g-custom:is-plus>
     </item>
   </channel>
 </rss>
