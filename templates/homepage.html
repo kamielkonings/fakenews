@@ -28,7 +28,7 @@
           <img src="\static\css\image\Header_Logo.jpg" alt="TrendFeed-Headliner">
         </div>
 
-        <div class="headerFixed">
+        <div class="headerFixed" id="myHeader">
           <div class="headerBanner">
             <img src="\static\css\image\Animation_Hand_Left.gif" alt="Hand-animation-left" style="width:34%;">
             <h1>Feeding your daily news.</h1>
@@ -130,6 +130,22 @@
     </div>
   </footer>
   </div>
+
+  <script>
+    window.onscroll = function() {myFunction()};
+    
+    var header = document.getElementById("myHeader");
+    var sticky = header.offsetTop;
+    
+    function myFunction() {
+      if (window.pageYOffset >= sticky) {
+        header.classList.add("sticky");
+      } else {
+        header.classList.remove("sticky");
+      }
+    }
+    </script>
+
 </body>
 
 </html>
