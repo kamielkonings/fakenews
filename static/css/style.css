@@ -16,8 +16,10 @@
 }
 body {
   margin: 0px;
+  padding: 0px;
 }
 .container {
+  display: inline-block;
 }
 .contentWrap {
   display: inline-grid;
@@ -289,6 +291,14 @@ article {
 
 footer {
   text-align: center;
+
+  size: 100%
+}
+footer, h4{
+  color: #6222d1;
+
+  font-size: 12px;
+  font-family: PtSans-Italic;
 }
 
 /* ---- typo on mobile ---- */
