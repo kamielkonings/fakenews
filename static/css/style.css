@@ -22,6 +22,8 @@ body {
   display: inline-block;
 }
 .contentWrap {
+  padding-top: 10px;
+
   display: inline-grid;
   grid-template-columns: 33% auto;
   grid-template-rows: 75% auto;
@@ -53,11 +55,11 @@ h1 {
 
   z-index: 999;
 
-margin-left: 5px;
-margin-right: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
 
-size: 100%;
-align-content: center;
+  size: 100%;
+  align-content: center;
 }
 .headerBanner {
   padding-left: 5px;
@@ -70,19 +72,12 @@ align-content: center;
 
   align-items: center;
 }
-.headerBanner{
-  padding-left: 2px;
-  padding-right: 2px;
-
-  margin-left: 2px;
-  margin-right: 2px;
-}
 
 .headerMenu {
   background-color: white;
 
   padding-top: 2px;
-  padding-bottom:15px;
+  padding-bottom:4px;
 
   padding-left: 25px;
   padding-right: 25px;
@@ -123,16 +118,14 @@ a:hover {
   width: 100%;
 }
 
-.sticky + .contentWrap {
-  top: 100px;
+.sticky + .content {
+  padding-top: 1600px;
 }
 
 /* ---- full content ---- */
-.contentWrap{
-  padding-top: 10px;
+.content{
+  padding-top: 0px;
 }
-
-
 .listContainer {
   margin: 15px;
 }
@@ -233,18 +226,21 @@ li {
   padding-right: 15px;
 
   padding-top: 2px;
-  padding-bottom: 10px;
+  padding-bottom: 15px;
+}
+
+.followListContent a{
+  font-size: 34px;
+}
+.followListContent a:hover{
+  font-size: 34px;
 }
 /* ---- Ad only ---- */
 
 .adListContent{
   margin: 4px;
 
-  padding-left: 10px;
-  padding-right: 15px;
-
-  padding-top: 2px;
-  padding-bottom: 10px;
+  padding-bottom: 5px
 }
 
 /* ---- Articles only ---- */
@@ -321,13 +317,17 @@ acknowledged, h4{
 
 @media only screen and (max-width: 640px) {
   h1 {
-      font-size: 14px;
+      font-size: 26px;
   }
   h2{
-      font-size: 10px
+      font-size: 24px
   }
   h3{
-      font-size: 8px;
+      font-size: 22px;
+  }
+
+  li{
+      font-size: 18px;
   }
 
   a{
@@ -337,15 +337,22 @@ acknowledged, h4{
       padding-top: 1px;
       padding-bottom: 1px;
 
-      font-size: 16px;
+      font-size: 28px;
   }
   a:hover{
-      font-size: 16px;
+      font-size: 28px;
+  }
+
+  .followListContent a{
+    font-size: 16px;
+  }
+  .followListContent a:hover{
+    font-size: 16px;
   }
 }
 
 @media only screen and (max-width: 910px){
-  #headerMobile{
+  #mobile{
     visibility: hidden;
     clear: both;
     float: left;
