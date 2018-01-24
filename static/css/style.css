@@ -22,7 +22,7 @@ body {
   display: inline-block;
 }
 .contentWrap {
-  padding-top: 10px;
+  padding-top: 18px;
 
   display: inline-grid;
   grid-template-columns: 33% auto;
@@ -58,7 +58,7 @@ h1 {
   margin-left: 5px;
   margin-right: 5px;
 
-  size: 100%;
+  width: 100%;
   align-content: center;
 }
 .headerBanner {
@@ -76,8 +76,8 @@ h1 {
 .headerMenu {
   background-color: white;
 
-  padding-top: 2px;
-  padding-bottom:4px;
+  padding-top: 3px;
+  padding-bottom:8px;
 
   padding-left: 25px;
   padding-right: 25px;
@@ -111,6 +111,9 @@ a:hover {
 }
 
 /* ---- sticky header ---- */
+.content{
+  padding: 0px;
+}
 
 .sticky {
   position: fixed;
@@ -123,9 +126,7 @@ a:hover {
 }
 
 /* ---- full content ---- */
-.content{
-  padding-top: 0px;
-}
+
 .listContainer {
   margin: 15px;
 }
