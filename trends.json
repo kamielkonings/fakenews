@@ -1,5 +1,398 @@
-500 Internal Server Error
-
-The server has either erred or is incapable of performing the requested operation.
-
-   
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?><rss xmlns:atom='http://www.w3.org/2005/Atom' xmlns:ht='https://trends.google.com/trends/trendingsearches/daily' version='2.0'>
+	<channel>
+		<title>Daily Search Trends</title>
+		<description>Recent searches</description>
+		<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE</link>
+		<atom:link href='https://trends.google.com/trends/trendingsearches/daily/rss?geo=BE' rel='self' type='application/rss+xml'/>
+		<item>
+			<title>6ix9ine</title>
+			<ht:approx_traffic>2,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#6ix9ine</link>
+			<pubDate>Tue, 20 Nov 2018 12:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmxlaDpBgZUcRFw-XNZi_nMD5q_u7CL84uguuuOucBs-PAxvX0mIYrlhCOnBcxpQVDtaTFUHr4</ht:picture>
+			<ht:picture_source>MCE Ma Chaine Etudiante</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>&lt;b&gt;6ix9ine&lt;/b&gt;: le rappeur risque entre 32 ans de prison et la perpétuité !</ht:news_item_title>
+				<ht:news_item_snippet>Son arrestation, avec quatre de ses collaborateurs, est le fruit d&amp;#39;une enquête de près de cinq ans sur les activités criminelles du gang des Nine Trey Gangsters, dont &lt;b&gt;6ix9ine&lt;/b&gt; ferait aussi partie. MCE vous dit tous sur cette affaire. Daniel Hernandez &lt;b&gt;...&lt;/b&gt;</ht:news_item_snippet>
+				<ht:news_item_url>https://mcetv.fr/mon-mag-buzz/people/6ix9ine-le-rappeur-risque-entre-32-ans-de-prison-et-la-perpetuite-2011/</ht:news_item_url>
+				<ht:news_item_source>MCE Ma Chaine Etudiante</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Le rappeur &lt;b&gt;6ix9ine&lt;/b&gt;, arrêté pour vols et port illégal d&amp;#39;armes à feu ...</ht:news_item_title>
+				<ht:news_item_snippet>À seulement 22 ans, la carrière judiciaire du rappeur américain &lt;b&gt;6ix9ine&lt;/b&gt; est déjà bien lancée. Soupçonné d&amp;#39;abus sur mineur, accusé d&amp;#39;avoir agressé un policier et étranglé un fan, son casier est bien rempli. Il a été arrêté dimanche soir à New York pour &lt;b&gt;...&lt;/b&gt;</ht:news_item_snippet>
+				<ht:news_item_url>http://www.lefigaro.fr/musique/2018/11/20/03006-20181120ARTFIG00197-le-rappeur-6ix9ine-arrete-pour-vols-et-port-illegal-d-armes-a-feu-risque-la-prison-a-perpetuite.php</ht:news_item_url>
+				<ht:news_item_source>Le Figaro</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>spijtoptant</title>
+			<ht:approx_traffic>2,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#spijtoptant</link>
+			<pubDate>Tue, 20 Nov 2018 13:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFj9JnF6O5p37-AbvahtOLhxhM9tmBCp6xIL7i80GG3ZNOsjEpCkTaJ1I80KasPIBHSMxxed38WQ</ht:picture>
+			<ht:picture_source>De Tijd</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Vijf jaar met uitstel voor makelaar Veljkovic als &lt;b&gt;spijtoptant&lt;/b&gt;</ht:news_item_title>
+				<ht:news_item_snippet>Veljkovic is niet de eerste &lt;b&gt;spijtoptant&lt;/b&gt; in het voetbal. Ruim tien jaar geleden kreeg ook Patrick Deman, gewezen assistent-trainer van SK Lierse, dat statuut in de zaak-Ye, het omkoop- en gokschandaal rond de Chinees Zheyun Ye. Deman werd ook bijgestaan&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.tijd.be/ondernemen/sport/vijf-jaar-met-uitstel-voor-makelaar-veljkovic-als-spijtoptant/10071165.html</ht:news_item_url>
+				<ht:news_item_source>De Tijd</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Spelersmakelaar Dejan Veljkovic gaat samenwerken met gerecht in onderzoek ...</ht:news_item_title>
+				<ht:news_item_snippet>Dejan Veljkovic, die onder strenge voorwaarden werd vrijgelaten, zal als &lt;b&gt;spijtoptant&lt;/b&gt; optreden in het dossier &amp;#39;Propere Handen&amp;#39;, het onderzoek naar omkoping en zwart geld in het Belgische voetbal. Dat heeft zijn advocaat Kris Luyckx dinsdagochtend&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.nieuwsblad.be/cnt/dmf20181120_03966767</ht:news_item_url>
+				<ht:news_item_source>Het Nieuwsblad</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Hugo Borst</title>
+			<ht:approx_traffic>2,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hugo%20Borst</link>
+			<pubDate>Tue, 20 Nov 2018 00:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-jcErD7xbOtom4bTf4RKBB57eKczYefPI7t8SC2O-6LOtMNboZenWDWhWy1T8PEMWTGtH7zPE</ht:picture>
+			<ht:picture_source>Goal.com</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>&lt;b&gt;Hugo Borst&lt;/b&gt;: &amp;quot;Ik ben gedrogeerd door Oranje&amp;quot;</ht:news_item_title>
+				<ht:news_item_snippet>&lt;b&gt;Hugo&lt;/b&gt; leeft sinds vrijdag in een trip: &amp;quot;Het spel van Oranje maakte me zo blij, alsof ik een xtc-pil op had.&amp;quot; Koert is ook trots op Nederland: “Door ons toedoen, is Duitsland gedegradeerd.&amp;#39; Verder Frank Lammers, Sjaak Swart en Maxim Hartman: &amp;quot;Stop eens &lt;b&gt;...&lt;/b&gt;</ht:news_item_snippet>
+				<ht:news_item_url>https://www.goal.com/nl/nieuws/hugo-borst-ik-ben-gedrogeerd-door-oranje/fkgknzrrtldz16jlkrt95csfc</ht:news_item_url>
+				<ht:news_item_source>Goal.com</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>iBOOD HUNT</title>
+			<ht:approx_traffic>2,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#iBOOD%20HUNT</link>
+			<pubDate>Tue, 20 Nov 2018 13:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp1mhaXDjZF1Wf_wHUzGLQzkc9i8TLh7suc3e1M4iNqd8z6_mpnGN-IAv0nEW2qE2xQIcCRh7KMw</ht:picture>
+			<ht:picture_source>Techmania (Blog)</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>&lt;b&gt;iBOOD HUNT&lt;/b&gt;; 48 uur lang koopjesjagen!</ht:news_item_title>
+				<ht:news_item_snippet>Koopjesjagers kunnen vandaag en morgen los tijdens de befaamde HUNT van iBOOD. Dat betekent opblijven! Zie je een interessante aanbieding? Reageerder dan snel, want weg is weg. Dat is hoe het gaat bij &lt;b&gt;iBOOD HUNT&lt;/b&gt;.</ht:news_item_snippet>
+				<ht:news_item_url>https://www.techmania.nl/29781/ibood-hunt-48-uur-lang-koopjesjagen/</ht:news_item_url>
+				<ht:news_item_source>Techmania (Blog)</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Info trafic</title>
+			<ht:approx_traffic>2,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#Info%20trafic</link>
+			<pubDate>Tue, 20 Nov 2018 09:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf4lq7d6zwsIF_WUgGB-1_suDCVFkhJlopYnRcwXvp-fvaqXu0wElVYBNSyC1fjY9swLI18fDd</ht:picture>
+			<ht:picture_source>actu.fr</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>&lt;b&gt;Info trafic&lt;/b&gt; : L&amp;#39;A31 fermée à Gondreville après un accident</ht:news_item_title>
+				<ht:news_item_snippet>[&lt;b&gt;Info trafic&lt;/b&gt;] Un accident impliquant deux poids lourd entraîne la fermeture de l&amp;#39;A31 à Gondreville. Un accident impliquant deux poids lourd s&amp;#39;est produit ce mardi vers 10h15 sur l&amp;#39;A31 dans le sens Toul vers Nancy au PR 235 + 900 à Gondreville. Toutes &lt;b&gt;...&lt;/b&gt;</ht:news_item_snippet>
+				<ht:news_item_url>http://www.ici-c-nancy.fr/faits-divers/item/14043-info-trafic-l-a31-fermee-a-gondreville-apres-un-accident.html</ht:news_item_url>
+				<ht:news_item_source>Ici-c-nancy.fr</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&lt;b&gt;Info trafic&lt;/b&gt; : accident sur l&amp;#39;A33 et ralentissement dans le sens ...</ht:news_item_title>
+				<ht:news_item_snippet>&lt;b&gt;Info trafic&lt;/b&gt;. Suite à un accident, un ralentissement est actuellement observé sur l&amp;#39;A33 dans le sens Lunéville vers Nancy. Prudence si vous devez prendre la route, un accident de circulation vient de se produire ce mardi 20 novembre sur l&amp;#39;A33 au PR &lt;b&gt;...&lt;/b&gt;</ht:news_item_snippet>
+				<ht:news_item_url>http://www.ici-c-nancy.fr/faits-divers/item/14041-info-trafic-accident-sur-l-a33-et-ralentissement-dans-le-sens-luneville-vers-nancy.html</ht:news_item_url>
+				<ht:news_item_source>Ici-c-nancy.fr</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Luminus Arena</title>
+			<ht:approx_traffic>2,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#Luminus%20Arena</link>
+			<pubDate>Tue, 20 Nov 2018 18:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWL95K8bfi0MADe9y9lswIyljxJHDFLyrwo1ykM9D3RYaEcVTMF50gzZ2VA8hbExU8h8-E6OaW</ht:picture>
+			<ht:picture_source>Het Laatste Nieuws</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Italiaanse ploeg aan het werk in Genkse &lt;b&gt;Luminus Arena&lt;/b&gt;: “Hopelijk tilt Mancini &lt;b&gt;...&lt;/b&gt;</ht:news_item_title>
+				<ht:news_item_snippet>Buitenlands Voetbal Italië oefent vanavond in Genk tegen de Verenigde Staten. Toppers als Donnarumma, Bonucci of Verratti aan het werk zien kan gewoon in de &lt;b&gt;Luminus Arena&lt;/b&gt;. Die loopt niet vol, maar brengt toch minstens 11.000 fans op de been.</ht:news_item_snippet>
+				<ht:news_item_url>https://www.hln.be/sport/voetbal/buitenlands-voetbal/italiaanse-ploeg-aan-het-werk-in-genkse-luminus-arena-hopelijk-tilt-mancini-italie-weer-naar-hoger-niveau~a457d474/</ht:news_item_url>
+				<ht:news_item_source>Het Laatste Nieuws</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Elke Clijsters</title>
+			<ht:approx_traffic>2,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#Elke%20Clijsters</link>
+			<pubDate>Tue, 20 Nov 2018 15:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrqjNCa5Yt_gCDE1sd1Ek2i5e3cccEFVmcvQDkFQWX-PUBjpNN9QR5xr_fx371fnuv1i70V-UL</ht:picture>
+			<ht:picture_source>7sur7</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>&lt;b&gt;Elke Clijsters&lt;/b&gt; (33) dient strafklacht in tegen ex-man Jelle Van Damme</ht:news_item_title>
+				<ht:news_item_snippet>&lt;b&gt;Elke Clijsters&lt;/b&gt; (33) was 9 jaar samen en 7 jaar getrouwd met Antwerpvoetballer Jelle Van Damme, maar hun huwelijk eindigt in mineur. Na drie verzoeningspogingen lijkt hun relatie niet meer te redden. Het parket van Hasselt bevestigt aan Dag Allemaal dat&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.hbvl.be/cnt/dmf20181120_03966716/elke-clijsters-33-dient-strafklacht-in-tegen-ex-man-jelle-van-damme</ht:news_item_url>
+				<ht:news_item_source>Het Belang van Limburg</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&lt;b&gt;Elke Clijsters&lt;/b&gt; daagt Jelle Van Damme voor de rechter</ht:news_item_title>
+				<ht:news_item_snippet>De breuk tussen Jelle Van Damme en &lt;b&gt;Elke Clijsters&lt;/b&gt; - ze waren negen jaar samen en zeven jaar getrouwd - krijgt nog een juridisch staartje. De zus van voormalig toptennisster Kim Clijsters heeft bij het parket van Hasselt een klacht ingediend. Over de &lt;b&gt;...&lt;/b&gt;</ht:news_item_snippet>
+				<ht:news_item_url>http://www.voetbalbelgie.be/nl/article.php?id=142597</ht:news_item_url>
+				<ht:news_item_source>Voetbal België: Belgisch en internationaal voetbalnieuws, transfers, video, voetbalshop en reportages (persbericht)</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Maroc Tunisie</title>
+			<ht:approx_traffic>1,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#Maroc%20Tunisie</link>
+			<pubDate>Tue, 20 Nov 2018 20:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQi9KgamSUZvaQA5WZFh2ztIZO3N4VSrIRklfxKrrma_u3PWDfSN5srU_wqF-pwGEosy8NiQ2RF</ht:picture>
+			<ht:picture_source>webmanagercenter</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>&lt;b&gt;Tunisie&lt;/b&gt; – &lt;b&gt;Maroc&lt;/b&gt; : ou regarder le le match en direct ?</ht:news_item_title>
+				<ht:news_item_snippet>La &lt;b&gt;Tunisie&lt;/b&gt; reçoit le &lt;b&gt;Maroc&lt;/b&gt; mardi 20 novembre 2018 dans le cadre d&amp;#39;un match amical de préparation pour CAN 2019. Le match &lt;b&gt;Tunisie&lt;/b&gt; vs &lt;b&gt;Maroc&lt;/b&gt; se déroule au stade de Rades à partir de 18h00. Vous pouvez regarder le match sur Watania 1. MOTS CLES&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.webmanagercenter.com/2018/11/20/426999/tunisie-maroc-ou-regarder-le-le-match-en-direct/</ht:news_item_url>
+				<ht:news_item_source>webmanagercenter</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>En amical à Radès : La &lt;b&gt;Tunisie&lt;/b&gt; pour se reprendre devant le &lt;b&gt;Maroc&lt;/b&gt;</ht:news_item_title>
+				<ht:news_item_snippet>Après la défaite à Borg Al Arab (3-2), face à l&amp;#39;Egypte, en qualification à la CAN 2019, le staff technique de l&amp;#39;équipe de &lt;b&gt;Tunisie&lt;/b&gt; insiste sur la nécessité de se reprendre, aujourd&amp;#39;hui , mardi 20 novembre 2018 (18h00), en match amical, face au &lt;b&gt;Maroc&lt;/b&gt; au &lt;b&gt;...&lt;/b&gt;</ht:news_item_snippet>
+				<ht:news_item_url>http://kapitalis.com/tunisie/2018/11/20/en-amical-a-rades-la-tunisie-pour-se-reprendre-devant-le-maroc/</ht:news_item_url>
+				<ht:news_item_source>Kapitalis</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Saint Verhaegen 2018</title>
+			<ht:approx_traffic>1,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#Saint%20Verhaegen%202018</link>
+			<pubDate>Tue, 20 Nov 2018 16:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwkBkyKewY19xh7F3IOfUHyzRS6upDhWtoXQxA7QAE_i255A5XTpHU4zT55u26fN3VfSDIPqQpWA</ht:picture>
+			<ht:picture_source>Le Soir</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>La &lt;b&gt;Saint&lt;/b&gt;-&lt;b&gt;Verhaegen&lt;/b&gt; sous le signe de la désobéissance, 50 ans ...</ht:news_item_title>
+				<ht:news_item_snippet>«Il souligne l&amp;#39;importance de l&amp;#39;idée de désobéissance civile. Cette année nous fêtons deux anniversaires, le premier, les 130 ans de l&amp;#39;appellation &lt;b&gt;Saint Verhaegen&lt;/b&gt; et le second, le cinquantenaire de Mai 68. Tous deux ont pour point commun la contestation&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.lesoir.be/191154/article/2018-11-20/la-saint-verhaegen-sous-le-signe-de-la-desobeissance-50-ans-apres-mai-68-photos</ht:news_item_url>
+				<ht:news_item_source>Le Soir</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Une &lt;b&gt;Saint&lt;/b&gt;-&lt;b&gt;V&lt;/b&gt; sous le signe de la désobéissance</ht:news_item_title>
+				<ht:news_item_snippet>Comme chaque 20 novembre, l&amp;#39;Université Libre de Bruxelles (ULB) et la Vrije Universiteit Brussel (VUB) commémorent leur fondateur Théodore &lt;b&gt;Verhaegen&lt;/b&gt; à l&amp;#39;occasion de la &amp;quot;&lt;b&gt;Saint&lt;/b&gt;-&lt;b&gt;Verhaegen&lt;/b&gt;&amp;quot;. Cette année, la fête était placée sous le signe de la&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.7sur7.be/7s7/fr/3007/Bruxelles/article/detail/3494819/2018/11/20/Une-Saint-V-sous-le-signe-de-la-desobeissance.dhtml</ht:news_item_url>
+				<ht:news_item_source>7sur7</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Virgil Van Dijk</title>
+			<ht:approx_traffic>1,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#Virgil%20Van%20Dijk</link>
+			<pubDate>Tue, 20 Nov 2018 17:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRylrBiqaNTCRetLg-umiifaI8xkvd00VTiBW4zyhltuANXYlRFI-2JO-5FS45gUeorYOIHvQsV</ht:picture>
+			<ht:picture_source>Le Soir</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Le très beau geste de &lt;b&gt;Virgil Van Dijk&lt;/b&gt; après Allemagne – Pays-Bas ...</ht:news_item_title>
+				<ht:news_item_snippet>En fin de rencontre, il s&amp;#39;est également montré particulièrement attentionné à l&amp;#39;égard de l&amp;#39;arbitre de la rencontre Ovidiu Hategan. En effet, au coup de sifflet final, &lt;b&gt;Van Dijk&lt;/b&gt; s&amp;#39;est dirigé vers le Roumain, en larmes, pour l&amp;#39;enlacer et le consoler. L &lt;b&gt;...&lt;/b&gt;</ht:news_item_snippet>
+				<ht:news_item_url>https://www.lesoir.be/191140/article/2018-11-20/le-tres-beau-geste-de-virgil-van-dijk-apres-allemagne-pays-bas-le-neerlandais</ht:news_item_url>
+				<ht:news_item_source>Le Soir</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Découvrez pourquoi &lt;b&gt;Virgil Van Dijk&lt;/b&gt; a consolé l&amp;#39;arbitre de la ...</ht:news_item_title>
+				<ht:news_item_snippet>Nations League &lt;b&gt;Virgil Van Dijk&lt;/b&gt; a sauvé son pays lundi soir en marquant le but de la qualification pour le Final Four. Dans la foulée, il a consolé l&amp;#39;arbitre de la rencontre qui était en pleurs. Dans les dernières minutes de la rencontre entre les &lt;b&gt;...&lt;/b&gt;</ht:news_item_snippet>
+				<ht:news_item_url>http://www.dhnet.be/sports/football/nations-league/decouvrez-pourquoi-virgil-van-dijk-a-console-l-arbitre-de-la-rencontre-allemagne-pays-bas-video-5bf3eebbcd70fdc91b88bbab</ht:news_item_url>
+				<ht:news_item_source>dh.be</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>la paix</title>
+			<ht:approx_traffic>1,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#la%20paix</link>
+			<pubDate>Tue, 20 Nov 2018 12:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQs-LQwwfpiFGn0G0wMrBjB2b-OqX7DU5Uh7pujuL_cRBqfLVP07JCiEH6QQSh9X0Mz3ARO0gI8</ht:picture>
+			<ht:picture_source>Libération</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Afghanistan : «Les talibans ne veulent pas &lt;b&gt;la paix&lt;/b&gt;»</ht:news_item_title>
+				<ht:news_item_snippet>Ce n&amp;#39;est pas ça, &lt;b&gt;la paix&lt;/b&gt;. Le pouvoir politique et les Afghans la veulent. Mais les talibans n&amp;#39;ont pas entamé de discussions directes avec nous. Donc pour espérer que tout change avant les élections de l&amp;#39;an prochain, il faudrait être, disons &lt;b&gt;...&lt;/b&gt;</ht:news_item_snippet>
+				<ht:news_item_url>https://www.liberation.fr/planete/2018/11/20/afghanistan-les-talibans-ne-veulent-pas-la-paix_1693193</ht:news_item_url>
+				<ht:news_item_source>Libération</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Nederland</title>
+			<ht:approx_traffic>1,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nederland</link>
+			<pubDate>Tue, 20 Nov 2018 01:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT6ynsW192E6kBQ9nyFti_G6w6Wn95XUp0KfP9KePezFoaEieBh3zB3Bb1HZbwruEbYUR3H3ps</ht:picture>
+			<ht:picture_source>AD.nl</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>&lt;b&gt;Nederland&lt;/b&gt; gaat toch ijveren voor sancties uithongering Jemen</ht:news_item_title>
+				<ht:news_item_snippet>&lt;b&gt;Nederland&lt;/b&gt; gaat zich in internationaal verband sterk maken voor sancties tegen de strijdende partijen in Jemen, die honger inzetten als wapen. De Verenigde Naties hebben uithongering in oorlogstijd dit voorjaar in de ban gedaan, mede op voorspraak van&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.ad.nl/politiek/nederland-gaat-toch-ijveren-voor-sancties-uithongering-jemen~af095862/</ht:news_item_url>
+				<ht:news_item_source>AD.nl</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>L&amp;#39;Équipe: &amp;#39;Frankrijk beroofd door &lt;b&gt;Nederland&lt;/b&gt;&amp;#39;</ht:news_item_title>
+				<ht:news_item_snippet>„Alles leek verloren voor Oranje, maar dankzij een gelijkmaker in blessuretijd, werd Frankrijk alsnog van de eerste plaats in de poule gestoten. En dat terwijl &lt;b&gt;Nederland&lt;/b&gt; slechts enkele van de in totaal negentig minuten recht had op een plekje bij de &lt;b&gt;...&lt;/b&gt;</ht:news_item_snippet>
+				<ht:news_item_url>https://www.telegraaf.nl/sport/2819769/l-equipe-frankrijk-beroofd-door-nederland</ht:news_item_url>
+				<ht:news_item_source>Telegraaf.nl</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Leonardo DiCaprio</title>
+			<ht:approx_traffic>1,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#Leonardo%20DiCaprio</link>
+			<pubDate>Tue, 20 Nov 2018 20:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvOdzb7RsXlaoQabU61H3NQE_G_yONYMIUCSDfkq9K9i_J7otiCLukg96d9PhHPC808ERQ2-va</ht:picture>
+			<ht:picture_source>Paris Match</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>&lt;b&gt;Leonardo DiCaprio&lt;/b&gt; et Robert De Niro célèbrent Martin Scorsese au ...</ht:news_item_title>
+				<ht:news_item_snippet>«Simplement, merci d&amp;#39;exister parce que je suis ici seulement parce que tu as fait ce que tu as fait», a déclaré Jonah Hill, très reconnaissant d&amp;#39;avoir pu jouer dans «Le Loup de Wall Street» aux côtés de &lt;b&gt;Leonardo DiCaprio&lt;/b&gt; en 2013. Robert De Niro, dont &lt;b&gt;...&lt;/b&gt;</ht:news_item_snippet>
+				<ht:news_item_url>https://www.parismatch.com/People/Leonardo-DiCaprio-et-Robert-De-Niro-celebrent-Martin-Scorsese-au-MoMA-Film-Benefit-1589216</ht:news_item_url>
+				<ht:news_item_source>Paris Match</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&lt;b&gt;Leonardo DiCaprio&lt;/b&gt; rend hommage à Martin Scorsese au MoMA</ht:news_item_title>
+				<ht:news_item_snippet>Parmi les invités qui ont foulé le tapis rouge, on retrouve de grandes stars hollywoodiennes qui ont côtoyé Martin Scorsese sur les tournages de ses films cultes: &lt;b&gt;Leonardo DiCaprio&lt;/b&gt; et Jonah Hill (&amp;quot;Le Loup de Wall Street&amp;quot;) mais aussi Robert De Niro et &lt;b&gt;...&lt;/b&gt;</ht:news_item_snippet>
+				<ht:news_item_url>https://www.huffingtonpost.fr/2018/11/20/leonardo-dicaprio-rend-hommage-a-martin-scorsese-au-moma_a_23594436/</ht:news_item_url>
+				<ht:news_item_source>Le HuffPost</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Farming Simulator 19</title>
+			<ht:approx_traffic>1,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#Farming%20Simulator%2019</link>
+			<pubDate>Tue, 20 Nov 2018 20:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU06NwA76S2B7Davb67m5s3zv4sKDPaTy2_wDabYhADFo-cL3sztPHfTH5puTBV5HasIBD0-E5</ht:picture>
+			<ht:picture_source>GAMERGEN.COM</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>5 &lt;b&gt;Farming Simulator 19&lt;/b&gt;-games te winnen!</ht:news_item_title>
+				<ht:news_item_snippet>Vul de onderstaande puzzel in een recordtijd en win zo &lt;b&gt;Farming&lt;/b&gt;-&lt;b&gt;simulator 19&lt;/b&gt; voor de PC. Landbouwleven heeft 5 games beschikbaar. De ultieme landbouwsimulatie keert dit jaar terug met een complete herziening van de grafische engine, met de meest&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.landbouwleven.be/4152/article/2018-11-20/5-farming-simulator-19-games-te-winnen</ht:news_item_url>
+				<ht:news_item_source>Landbouwleven (persbericht) (Blog)</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Start je boerenleven in &lt;b&gt;Farming Simulator 19&lt;/b&gt;</ht:news_item_title>
+				<ht:news_item_snippet>Deze nieuwste versie van Farming Simulator moet &amp;quot;de meest diepe, meest complete boerensimulatie ooit&amp;quot; worden volgens ontwikkelaar Giants Software. Ten opzichte van vorige edities heeft &lt;b&gt;Farming Simulator 19&lt;/b&gt; verbeterde graphics, nieuwe omgevingen en&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://gamer.nl/artikelen/trailer/start-je-boerenleven-in-farming-simulator-19/</ht:news_item_url>
+				<ht:news_item_source>Gamer.nl</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>HDSS</title>
+			<ht:approx_traffic>50,000+</ht:approx_traffic>
+			<description>hds to streaming</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#HDSS</link>
+			<pubDate>Mon, 19 Nov 2018 12:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFwzKyHzOoNlHzn8yDzRBRg_pEoK2URF1r-HaCu0zEVeygZU6lSBO35ge9kYvuOWj95Jj-b4a_</ht:picture>
+			<ht:picture_source>Congo Webmaster (Blog)</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>HDS.to est mort, vive &lt;b&gt;HDSS&lt;/b&gt;.to, le site qui prend la relève du site de ...</ht:news_item_title>
+				<ht:news_item_snippet>On ne sait pas si &lt;b&gt;HDSS&lt;/b&gt;.to est une plate-forme créée par les mecs derrière feu HDS.to. En tout cas, l&amp;#39;interface est extrêmement similaire et le principe est le même: proposer des films et des séries gratuitement en streaming. En effet, on rappelle que &lt;b&gt;...&lt;/b&gt;</ht:news_item_snippet>
+				<ht:news_item_url>http://fr.newsmonkey.be/article/26590</ht:news_item_url>
+				<ht:news_item_source>newsmonkey FR</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>HDS.to : le site de streaming illégal ferme ses portes</ht:news_item_title>
+				<ht:news_item_snippet>Comme prévu, quelques jours après la fermeture, un autre site web a tenté de rameuter les utilisateurs en se faisant passer une nouvelle version officielle : &lt;b&gt;HDSS&lt;/b&gt;.to. Sur Twitter, les administrateurs essayent de faire passer le site pour le successeur &lt;b&gt;...&lt;/b&gt;</ht:news_item_snippet>
+				<ht:news_item_url>https://www.phonandroid.com/hds-to-le-site-de-streaming-illegal-ferme-ses-portes.html</ht:news_item_url>
+				<ht:news_item_source>Phonandroid</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>VTM</title>
+			<ht:approx_traffic>20,000+</ht:approx_traffic>
+			<description>Hoe zal ik het zeggen, jens dendoncker, Tim Van Aelst</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#VTM</link>
+			<pubDate>Mon, 19 Nov 2018 17:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXV3IuDH_V1k-0U0GHz3_-31BfROjzp-WEsvrTsz4GyXmx3T_RMCzM7CRGPEZsKYKfMqh7Pe7j</ht:picture>
+			<ht:picture_source>VTM NIEUWS</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>In het programma, waarvan het eerste seizoen in het najaar van 2017 bij &lt;b&gt;VTM&lt;/b&gt; ...</ht:news_item_title>
+				<ht:news_item_snippet>In het programma, waarvan het eerste seizoen in het najaar van 2017 bij &lt;b&gt;VTM&lt;/b&gt; liep, brengt presentator Jens Dendoncker op een originele manier boodschappen over aan nietsvermoedende mensen. Het tweede seizoen ging maandagavond van start op &lt;b&gt;VTM&lt;/b&gt;&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://nieuws.vtm.be/cultuur-media/hoe-zal-ik-het-zeggen-wint-internationale-emmy</ht:news_item_url>
+				<ht:news_item_source>VTM NIEUWS</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&amp;#39;Hoe Zal Ik Het Zeggen?&amp;#39; wint Emmy Award: derde Emmy voor productiehuis ...</ht:news_item_title>
+				<ht:news_item_snippet>In het najaar van 2017 bereikte dat wekelijks 700.000 kijkers. Het tweede seizoen is gisteravond net van start gegaan op &lt;b&gt;VTM&lt;/b&gt;. Medialaan feliciteert in een persbericht bedenkers Sofie Peeters en Tim Van Aelst, presentator Jens Dendoncker en het hele &lt;b&gt;...&lt;/b&gt;</ht:news_item_snippet>
+				<ht:news_item_url>https://www.gva.be/cnt/dmf20181120_03965410/hoe-zal-ik-het-zeggen-wint-emmy-award-derde-emmy-voor-productiehuis-shelter</ht:news_item_url>
+				<ht:news_item_source>Gazet van Antwerpen</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Tyler The Creator</title>
+			<ht:approx_traffic>10,000+</ht:approx_traffic>
+			<description>Jaden Smith</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tyler%20The%20Creator</link>
+			<pubDate>Mon, 19 Nov 2018 21:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQLVGfpbYIBgnXscCW9WCURAMmB7INfDSP8u_Pl0dEs8c_oZZB1Yzwu_brfWxIg-bbN6Bfq7yk</ht:picture>
+			<ht:picture_source>melty.fr</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Zijn Jaden Smith en &lt;b&gt;Tyler, The Creator&lt;/b&gt; een koppel?</ht:news_item_title>
+				<ht:news_item_snippet>Het begon met een passage op het Camp Flog Gnaw Carnival, een jaarlijks muziekfestival dat gecureerd wordt door &lt;b&gt;Tyler, The Creator&lt;/b&gt;. Tijdens zijn optreden zei Smith: &amp;#39;Tyler is mijn beste vriend in de hele wereld, en ik houd zo veel van hem. Hij wil het &lt;b&gt;...&lt;/b&gt;</ht:news_item_snippet>
+				<ht:news_item_url>http://www.standaard.be/cnt/dmf20181120_03967198</ht:news_item_url>
+				<ht:news_item_source>De Standaard</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Jaden Smith geeft relatie met rapper &lt;b&gt;Tyler, The Creator&lt;/b&gt; toe - Actueel Cinema</ht:news_item_title>
+				<ht:news_item_snippet>Beelden toonden aan waar Smith in een concertzaal toegeeft aan een relatie te hebben met &lt;b&gt;Tyler, The Creator&lt;/b&gt;. Velen twijfelden aan de authenticiteit van de beelden, maar een beetje later volgde een tweet van Smith waarin hij hetzelfde beweerde. De tweet&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.cinenews.be/nl/cinema/nieuws/138357/jaden-smith-geeft-relatie-met-rapper-tyler-the-creator-toe/</ht:news_item_url>
+				<ht:news_item_source>Cinenews.be</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>MediaMarkt Black Friday 2018</title>
+			<ht:approx_traffic>10,000+</ht:approx_traffic>
+			<description>media markt black friday, black friday deals, mediamarkt black friday</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#MediaMarkt%20Black%20Friday%202018</link>
+			<pubDate>Mon, 19 Nov 2018 12:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNNaWxOnmmdHGaK_JUfBLr1cVJJ2Phl5r-42dNE2zpVB6VJyV9509f9BffvHJQ66INJCOqCT4H</ht:picture>
+			<ht:picture_source>Manners</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>De beste &lt;b&gt;MediaMarkt Black Friday&lt;/b&gt; deals van vandaag</ht:news_item_title>
+				<ht:news_item_snippet>&lt;b&gt;Black Friday&lt;/b&gt; start komende vrijdag (23 november) pas, maar toch beginnen grote winkels nu al met superdeals. Vooral de &lt;b&gt;MediaMarkt&lt;/b&gt; gaat vroeg van start: elke dag komt de techgigant met nieuwe aanbiedingen. Van high-end koptelefoons met Noise&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.manners.nl/mediamarkt-black-friday-deals-dinsdag/</ht:news_item_url>
+				<ht:news_item_source>Manners</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Soe Nsuki</title>
+			<ht:approx_traffic>10,000+</ht:approx_traffic>
+			<description>Rani De Coninck</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#Soe%20Nsuki</link>
+			<pubDate>Mon, 19 Nov 2018 22:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkhfRNZO2w7pf5SltVjwn1JvMKF8N-3zoYa7JpwHVrbMXWySC5tiKe5oIyMZLvCxlotHaAvhwm4g</ht:picture>
+			<ht:picture_source>Het Laatste Nieuws</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Bang in het donker? Dan is deze tip van &lt;b&gt;Soe Nsuki&lt;/b&gt; iets voor jou</ht:news_item_title>
+				<ht:news_item_snippet>Vanavond strijden &lt;b&gt;Soe Nsuki&lt;/b&gt;, Wouter Vandenhaute en Rani de Coninck voor de titel van &amp;#39;De Slimste Mens ter Wereld&amp;#39;. Nieuwkomer &lt;b&gt;Soe Nsuki&lt;/b&gt; geeft toe dat ze op momenten heel bang is in het donker. Daar heeft ze gelukkig een hilarische hulpmiddel op&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.hln.be/showbizz/tv/bang-in-het-donker-dan-is-deze-tip-van-soe-nsuki-iets-voor-jou~a52d2499/</ht:news_item_url>
+				<ht:news_item_source>Het Laatste Nieuws</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Wie is &lt;b&gt;Soe Nsuki&lt;/b&gt; uit &amp;#39;De Slimste Mens Ter Wereld&amp;#39;?</ht:news_item_title>
+				<ht:news_item_snippet>Als &lt;b&gt;Soe Nsuki&lt;/b&gt; jou nog niet bekend in de oren klinkt, dan is het ongetwijfeld omdat je weinig Vlaamse comedy kijkt. Nsuki is namelijk net klaar met haar eerste volavondshow, Soetopia, die binnenkort in Antwerpen in première gaat in de Arenbergschouwburg.</ht:news_item_snippet>
+				<ht:news_item_url>http://newsmonkey.be/article/91738</ht:news_item_url>
+				<ht:news_item_source>newsmonkey</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Macron</title>
+			<ht:approx_traffic>10,000+</ht:approx_traffic>
+			<description>Brigitte Macron, Emmanuel Macron, macron louvain la neuve</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=BE#Macron</link>
+			<pubDate>Mon, 19 Nov 2018 20:00:00 +0100</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdOFf8EH89H1evs9kZ3N4RYzSTVqNO8TvehvlR4TR8JxtsM6ZbtHk1hkj3SQg4AyzF-0ZsiZjN</ht:picture>
+			<ht:picture_source>RTBF</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>VIDEO. Studenten verstoren debat met &lt;b&gt;Macron&lt;/b&gt; en Michel aan Waalse universiteit &lt;b&gt;...&lt;/b&gt;</ht:news_item_title>
+				<ht:news_item_snippet>Het debat tussen studenten van de Université catholique de Louvain (UCL) en de Franse president Emmanuel &lt;b&gt;Macron&lt;/b&gt; en premier Charles Michel is vanochtend kort verstoord door een drietal actievoerders. De betogers hielden een spandoek in de lucht en&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.hln.be/nieuws/binnenland/video-studenten-verstoren-debat-met-macron-en-michel-aan-waalse-universiteit-u-bent-een-leugenaar~a8180654/</ht:news_item_url>
+				<ht:news_item_source>Het Laatste Nieuws</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Emmanuel &lt;b&gt;Macron&lt;/b&gt; à Louvain-La-Neuve: &amp;quot;Il faut dialoguer avec les gilets jaunes&amp;quot;</ht:news_item_title>
+				<ht:news_item_snippet>Dans le cadre de la visite d&amp;#39;État d&amp;#39;Emmanuel &lt;b&gt;Macron&lt;/b&gt; en Belgique, un débat avec les étudiants de l&amp;#39;UCLouvain a été organisé avec le président français et le Premier Ministre Charles Michel à l&amp;#39;Aula Magna, à Louvain-la-Neuve. Cette prise de parole a fait&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.rtbf.be/info/belgique/detail_suivez-en-direct-le-debat-entre-emmanuel-macron-charles-michel-et-des-etudiants-de-l-uclouvain?id=10077598</ht:news_item_url>
+				<ht:news_item_source>RTBF</ht:news_item_source>
+			</ht:news_item>
+		</item>
+	</channel>
+</rss>

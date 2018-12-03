@@ -50,12 +50,12 @@ def do_fetch(publication='demorgen'):
         urllib.urlretrieve('https://www.demorgen.be/rss.xml', 'demorgen.xml')
     elif publication == 'hln':
         urllib.urlretrieve('https://www.hln.be/rss.xml', 'hln.xml')
-    urllib.urlretrieve('http://hawttrends.appspot.com/api/terms/',
-                       'trends.json')
+   # urllib.urlretrieve('https://trends.google.com/trends/trendingsearches/daily/rss?geo=BE',
+                       #'trends_backup.json')#trends.json
 
-
+#http://hawttrends.appspot.com/api/terms/ OLD
 def do_generate(publication='demorgen'):
-    all_trends = json.load(open('trends.json'))
+    all_trends = json.load(open('trends_backup.json'))#trends.json
     local_trends = all_trends['41']  # Belgie
     local_trends = local_trends[:10]
     
@@ -87,7 +87,7 @@ def do_generate(publication='demorgen'):
 
 
 def get_trends():
-    all_trends = json.load(open('trends.json'))
+    all_trends = json.load(open('trends_backup.json'))#trends.json
     local_trends = all_trends['41']  # Belgie
 
 
